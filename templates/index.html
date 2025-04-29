@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenya Youth Unemployment Solution Finder</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Kenya Youth Unemployment Solution Finder</h1>
+        <p>Identifying barriers and recommending targeted interventions</p>
+    </header>
+
+    <main>
+        <section id="analysis-section">
+            <h2>Find Your Employment Solution</h2>
+            <div class="input-container">
+                <textarea id="description-input" placeholder="Describe your employment challenge or situation (e.g., 'I have a degree but can't find work in my field' or 'There are no jobs in my rural area')..."></textarea>
+                <button id="analyze-btn">Analyze My Situation</button>
+            </div>
+            <div id="result-container" class="hidden">
+                <h3>Your Employment Analysis</h3>
+                <div id="barrier-result"></div>
+                <div id="intervention-result"></div>
+                <div id="confidence-result"></div>
+                <div id="explanation" class="explanation-box"></div>
+            </div>
+        </section>
+
+        <section id="stats-section">
+            <h2>Unemployment Insights</h2>
+            <div class="charts-container">
+                <div class="chart-box">
+                    <h3>Common Employment Barriers</h3>
+                    <canvas id="barrier-chart"></canvas>
+                </div>
+                <div class="chart-box">
+                    <h3>Employment Status</h3>
+                    <canvas id="employment-chart"></canvas>
+                </div>
+                <div class="chart-box">
+                    <h3>Education Level</h3>
+                    <canvas id="education-chart"></canvas>
+                </div>
+                <!-- <div class="chart-box">
+                    <h3>Popular Interventions</h3>
+                    <canvas id="intervention-chart"></canvas>
+                </div> -->
+            </div>
+        </section>
+        
+        <section id="resources-section">
+            <h2>Employment Resources</h2>
+            <div class="resources-container">
+                <div class="resource-card" id="skills-resources">
+                    <h3>Skills Development</h3>
+                    <ul id="skills-list">
+                        <li>Loading resources...</li>
+                    </ul>
+                </div>
+                <div class="resource-card" id="opportunity-resources">
+                    <h3>Job Opportunities</h3>
+                    <ul id="opportunity-list">
+                        <li>Loading resources...</li>
+                    </ul>
+                </div>
+                <div class="resource-card" id="funding-resources">
+                    <h3>Funding & Support</h3>
+                    <ul id="funding-list">
+                        <li>Loading resources...</li>
+                    </ul>
+                </div>
+                <div class="resource-card" id="career-resources">
+                    <h3>Career Guidance</h3>
+                    <ul id="career-list">
+                        <li>Loading resources...</li>
+                    </ul>
+                </div>
+                <div class="resource-card" id="location-resources">
+                    <h3>Geographic Solutions</h3>
+                    <ul id="location-list">
+                        <li>Loading resources...</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Bridging the Gap: Analyzing Youth Employment and Solutions to Inform Policy in Kenya</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

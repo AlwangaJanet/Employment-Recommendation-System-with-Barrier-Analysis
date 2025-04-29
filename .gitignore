@@ -1,0 +1,34 @@
+# Ignore virtual environment
+janet/
+
+# Ignore all notebooks except the one in use
+*.ipynb
+!youth_employment2.ipynb
+
+# Ignore unused datasets
+*.csv
+*.xlsx
+*.tsv
+# Add specific files you want to keep
+!kenya_youth_employment.csv  
+
+# Ignore __pycache__ and other Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Ignore data folder (not in use)
+data/
+
+# Include app.py
+!app.py
+
+# Allow model and models folders
+!model/
+!models/
+
+# Allow static and templates
+!static/
+!templates/

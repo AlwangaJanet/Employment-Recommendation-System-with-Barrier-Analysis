@@ -1,0 +1,1001 @@
+age,gender,education,county,employment_status,years_experience,job_applications,months_unemployed,unemployment_barrier,description,recommended_intervention
+24,Male,Diploma,Machakos,Unemployed,12,43,13,Skills_Gap,I lack the technical skills needed for jobs in my field,Industry certifications
+22,Female,Bachelor,Kakamega,Student,3,22,28,Skills_Gap,I lack the technical skills needed for jobs in my field,Industry certifications
+26,Male,Diploma,Nakuru,Employed,0,23,18,Market_Mismatch,My field of study doesn't have many opportunities locally,Alternative career path mentorship
+19,Female,Secondary,Machakos,Unemployed,14,17,33,Resource_Constraints,Starting my own business requires capital I don't have,Job search stipend
+26,Female,Bachelor,Nakuru,Employed,4,41,33,Resource_Constraints,Starting my own business requires capital I don't have,Business incubation
+32,Male,Primary,Nyeri,Unpaid work,5,35,21,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Gig economy onboarding
+19,Female,Masters,Kakamega,Unemployed,14,22,33,Opportunity_Shortage,There are very few job openings in Kakamega,Entrepreneurship support
+28,Female,Secondary,Nyeri,Unemployed,0,31,8,Geographic_Barrier,Remote work options are limited in my field,Commuter subsidy
+22,Female,Diploma,Nakuru,Unemployed,9,17,11,Opportunity_Shortage,There are very few job openings in Nakuru,Gig economy onboarding
+24,Female,Bachelor,Machakos,Unemployed,7,32,2,Skills_Gap,My current skills are outdated for the modern job market in Machakos,Apprenticeship placement
+22,Female,Diploma,Nakuru,Self-employed,1,44,18,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+18,Male,Bachelor,Eldoret,Employed,6,20,32,Market_Mismatch,My Bachelor qualification doesn't match what employers want,Industry transition program
+30,Male,Primary,Kakamega,Student,10,49,34,Skills_Gap,I lack the technical skills needed for jobs in my field,Digital skills bootcamp
+29,Male,Diploma,Machakos,Employed,11,25,13,Skills_Gap,I lack the technical skills needed for jobs in my field,Apprenticeship placement
+21,Male,Diploma,Nyeri,Employed,3,33,33,Resource_Constraints,Starting my own business requires capital I don't have,Job search stipend
+32,Female,Diploma,Kakamega,Employed,14,46,10,Market_Mismatch,The industry I trained for is declining in Kenya,Alternative career path mentorship
+23,Male,Bachelor,Kakamega,Self-employed,13,31,16,Opportunity_Shortage,The job market in Kakamega is saturated with job seekers,Job creation initiative
+34,Male,Primary,Nyeri,Self-employed,5,9,7,Geographic_Barrier,Remote work options are limited in my field,Commuter subsidy
+21,Male,Secondary,Nairobi,Unemployed,12,49,4,Opportunity_Shortage,There are very few job openings in Nairobi,Gig economy onboarding
+34,Male,Secondary,Mombasa,Employed,6,27,16,Market_Mismatch,There's a disconnect between my education and available jobs,Alternative career path mentorship
+29,Female,Diploma,Nakuru,Employed,6,38,16,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Gig economy onboarding
+24,Female,Diploma,Nyeri,Self-employed,5,19,24,Geographic_Barrier,Remote work options are limited in my field,Relocation support
+34,Female,Primary,Kisumu,Student,2,11,27,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+25,Male,Masters,Machakos,Unemployed,4,36,0,Market_Mismatch,The industry I trained for is declining in Kenya,Career redirection counseling
+20,Female,Secondary,Kisumu,Self-employed,8,32,26,Resource_Constraints,The cost of living while job hunting is too high,Job search stipend
+22,Male,Secondary,Kakamega,Employed,7,17,30,Opportunity_Shortage,The job market in Kakamega is saturated with job seekers,Entrepreneurship support
+26,Female,Diploma,Mombasa,Unemployed,5,2,23,Skills_Gap,Companies want experience with technologies I haven't learned,Technical training program
+27,Female,Masters,Machakos,Unemployed,3,2,30,Opportunity_Shortage,There are very few job openings in Machakos,Gig economy onboarding
+26,Female,Diploma,Nyeri,Employed,9,35,24,Resource_Constraints,Starting my own business requires capital I don't have,Startup capital support
+29,Male,PhD,Kisumu,Unemployed,2,11,22,Market_Mismatch,My skills are not valued in the current job market,Alternative career path mentorship
+18,Male,Bachelor,Kisumu,Self-employed,7,1,25,Resource_Constraints,I lack resources to continue searching for jobs,Startup capital support
+32,Male,Secondary,Eldoret,Student,6,12,26,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+24,Female,Bachelor,Nakuru,Employed,7,27,22,Geographic_Barrier,Living in Nakuru limits my access to job opportunities,Satellite office placement
+24,Female,Secondary,Mombasa,Unemployed,9,47,4,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+28,Female,Secondary,Kakamega,Employed,11,40,19,Opportunity_Shortage,Too many graduates are competing for too few positions,Job creation initiative
+25,Male,Diploma,Eldoret,Employed,9,4,35,Geographic_Barrier,Jobs in my field are only available far from where I live,Satellite office placement
+21,Male,Secondary,Nairobi,Employed,2,16,27,Resource_Constraints,I can't afford the transportation costs for interviews,Transport subsidy
+27,Female,Secondary,Nyeri,Employed,3,46,33,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+35,Female,Primary,Nairobi,Employed,10,44,23,Resource_Constraints,I can't afford the transportation costs for interviews,Business incubation
+33,Female,Diploma,Nyeri,Employed,8,7,23,Market_Mismatch,My field of study doesn't have many opportunities locally,Career redirection counseling
+24,Male,Bachelor,Nairobi,Employed,9,17,24,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+34,Male,Secondary,Nairobi,Student,3,37,23,Opportunity_Shortage,The job market in Nairobi is saturated with job seekers,Gig economy onboarding
+21,Male,Bachelor,Eldoret,Unemployed,4,18,26,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+18,Female,Secondary,Nakuru,Unemployed,9,10,30,Resource_Constraints,I can't afford the transportation costs for interviews,Business incubation
+19,Male,Secondary,Mombasa,Self-employed,8,26,0,Market_Mismatch,My skills are not valued in the current job market,Career redirection counseling
+29,Female,Bachelor,Kisumu,Unemployed,8,18,4,Opportunity_Shortage,The job market in Kisumu is saturated with job seekers,Job creation initiative
+33,Female,Secondary,Nairobi,Employed,7,46,14,Market_Mismatch,My Secondary qualification doesn't match what employers want,Industry transition program
+29,Female,Secondary,Nairobi,Unemployed,9,39,33,Opportunity_Shortage,Companies aren't hiring in my field right now,Entrepreneurship support
+30,Male,Primary,Eldoret,Unemployed,10,13,26,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+20,Male,Bachelor,Kakamega,Employed,13,16,20,Market_Mismatch,There's a disconnect between my education and available jobs,Career redirection counseling
+32,Female,Bachelor,Mombasa,Employed,2,43,32,Market_Mismatch,My field of study doesn't have many opportunities locally,Alternative career path mentorship
+29,Female,Secondary,Mombasa,Unemployed,14,9,10,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+27,Male,Secondary,Kisumu,Self-employed,6,49,9,Geographic_Barrier,I can't relocate to where the jobs are available,Remote work opportunity
+26,Female,Secondary,Eldoret,Employed,13,21,35,Geographic_Barrier,Remote work options are limited in my field,Satellite office placement
+18,Female,Diploma,Machakos,Employed,5,5,13,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Public works program
+21,Male,Primary,Nakuru,Employed,12,25,1,Opportunity_Shortage,There are very few job openings in Nakuru,Entrepreneurship support
+25,Female,Secondary,Kakamega,Self-employed,5,40,14,Geographic_Barrier,Jobs in my field are only available far from where I live,Remote work opportunity
+33,Male,Secondary,Kisumu,Self-employed,0,18,22,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Job creation initiative
+33,Male,Secondary,Machakos,Unemployed,9,42,10,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+24,Male,Secondary,Nyeri,Student,3,36,34,Market_Mismatch,My Secondary qualification doesn't match what employers want,Career redirection counseling
+33,Male,Secondary,Nakuru,Self-employed,3,19,7,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+30,Female,Bachelor,Nairobi,Self-employed,13,34,5,Geographic_Barrier,Jobs in my field are only available far from where I live,Commuter subsidy
+29,Female,Secondary,Eldoret,Employed,4,46,25,Geographic_Barrier,There's an urban-rural divide in job availability,Commuter subsidy
+20,Female,Diploma,Nakuru,Student,13,49,22,Skills_Gap,Companies want experience with technologies I haven't learned,Apprenticeship placement
+19,Male,Secondary,Kisumu,Employed,12,20,8,Resource_Constraints,The cost of living while job hunting is too high,Job search stipend
+33,Male,Secondary,Kisumu,Unemployed,7,33,9,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+30,Female,Secondary,Kisumu,Self-employed,9,8,2,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+34,Male,Primary,Nairobi,Unemployed,11,24,7,Geographic_Barrier,I can't relocate to where the jobs are available,Relocation support
+28,Female,Primary,Eldoret,Unemployed,6,18,17,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+30,Female,Bachelor,Nyeri,Unemployed,8,25,27,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+26,Male,Bachelor,Eldoret,Self-employed,13,12,16,Resource_Constraints,I lack resources to continue searching for jobs,Startup capital support
+27,Female,Masters,Nairobi,Employed,7,4,26,Opportunity_Shortage,There are very few job openings in Nairobi,Gig economy onboarding
+35,Male,Diploma,Nakuru,Unpaid work,5,29,18,Geographic_Barrier,Remote work options are limited in my field,Relocation support
+33,Female,Primary,Kisumu,Unemployed,1,39,7,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Gig economy onboarding
+23,Male,Diploma,Machakos,Unpaid work,11,7,7,Market_Mismatch,There's a disconnect between my education and available jobs,Industry transition program
+34,Female,Secondary,Mombasa,Unemployed,0,45,21,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+26,Female,Primary,Nakuru,Unemployed,0,42,28,Geographic_Barrier,Living in Nakuru limits my access to job opportunities,Satellite office placement
+32,Female,Bachelor,Eldoret,Unemployed,13,9,3,Market_Mismatch,My skills are not valued in the current job market,Skill conversion training
+18,Female,Primary,Machakos,Unemployed,7,26,4,Opportunity_Shortage,Companies aren't hiring in my field right now,Gig economy onboarding
+33,Male,Secondary,Nairobi,Unemployed,7,34,19,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+32,Male,Bachelor,Kisumu,Employed,6,2,30,Geographic_Barrier,Remote work options are limited in my field,Remote work opportunity
+30,Male,Bachelor,Eldoret,Employed,2,33,9,Market_Mismatch,The industry I trained for is declining in Kenya,Alternative career path mentorship
+26,Female,Diploma,Mombasa,Unemployed,1,4,31,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+32,Female,Bachelor,Kakamega,Employed,8,49,25,Geographic_Barrier,Jobs in my field are only available far from where I live,Relocation support
+21,Female,Secondary,Kisumu,Unpaid work,3,27,35,Market_Mismatch,The industry I trained for is declining in Kenya,Career redirection counseling
+25,Female,Diploma,Nairobi,Employed,4,44,11,Resource_Constraints,I can't afford the transportation costs for interviews,Business incubation
+19,Female,Bachelor,Machakos,Unemployed,14,34,20,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+35,Male,Bachelor,Nakuru,Unemployed,3,0,9,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+35,Male,Secondary,Nyeri,Unpaid work,9,8,9,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+31,Female,Bachelor,Mombasa,Unemployed,1,47,26,Opportunity_Shortage,There are very few job openings in Mombasa,Entrepreneurship support
+22,Female,Masters,Nairobi,Unemployed,0,21,11,Market_Mismatch,The industry I trained for is declining in Kenya,Alternative career path mentorship
+35,Female,Bachelor,Mombasa,Self-employed,0,20,31,Resource_Constraints,I need financial support to relocate where jobs are available,Transport subsidy
+18,Female,Bachelor,Machakos,Employed,5,46,21,Market_Mismatch,My field of study doesn't have many opportunities locally,Industry transition program
+20,Female,Secondary,Kakamega,Unemployed,1,43,28,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Gig economy onboarding
+29,Female,Diploma,Kakamega,Unemployed,12,22,22,Opportunity_Shortage,Companies aren't hiring in my field right now,Gig economy onboarding
+28,Male,Primary,Nakuru,Self-employed,11,29,0,Market_Mismatch,My skills are not valued in the current job market,Career redirection counseling
+26,Female,Bachelor,Kakamega,Self-employed,6,27,31,Market_Mismatch,My skills are not valued in the current job market,Industry transition program
+20,Male,Diploma,Kisumu,Student,5,37,23,Resource_Constraints,Starting my own business requires capital I don't have,Business incubation
+21,Male,Diploma,Nakuru,Unemployed,5,27,23,Market_Mismatch,My field of study doesn't have many opportunities locally,Skill conversion training
+34,Male,Diploma,Mombasa,Student,11,29,6,Resource_Constraints,Starting my own business requires capital I don't have,Transport subsidy
+29,Male,Primary,Nyeri,Employed,13,18,11,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+26,Female,Diploma,Eldoret,Unemployed,1,19,35,Opportunity_Shortage,The job market in Eldoret is saturated with job seekers,Job creation initiative
+33,Female,Secondary,Mombasa,Self-employed,12,44,30,Skills_Gap,My current skills are outdated for the modern job market in Mombasa,Apprenticeship placement
+35,Male,Secondary,Machakos,Unemployed,3,19,28,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+29,Female,Primary,Nakuru,Unemployed,3,30,16,Skills_Gap,My current skills are outdated for the modern job market in Nakuru,Technical training program
+27,Male,Secondary,Kisumu,Student,14,4,28,Market_Mismatch,My skills are not valued in the current job market,Career redirection counseling
+26,Female,Secondary,Nakuru,Unemployed,8,41,0,Skills_Gap,My current skills are outdated for the modern job market in Nakuru,Apprenticeship placement
+18,Male,Bachelor,Mombasa,Self-employed,4,14,24,Resource_Constraints,The cost of living while job hunting is too high,Transport subsidy
+28,Female,Bachelor,Nyeri,Unemployed,9,30,22,Opportunity_Shortage,Too many graduates are competing for too few positions,Public works program
+23,Male,Masters,Kisumu,Employed,3,7,0,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+35,Male,Secondary,Kisumu,Self-employed,14,35,11,Resource_Constraints,Starting my own business requires capital I don't have,Job search stipend
+19,Male,Secondary,Kakamega,Unemployed,9,27,1,Opportunity_Shortage,The job market in Kakamega is saturated with job seekers,Public works program
+18,Male,Secondary,Nakuru,Unemployed,12,20,7,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+22,Female,Masters,Nyeri,Employed,5,28,6,Geographic_Barrier,Jobs in my field are only available far from where I live,Relocation support
+28,Female,Secondary,Mombasa,Employed,14,6,29,Geographic_Barrier,Jobs in my field are only available far from where I live,Remote work opportunity
+23,Female,Primary,Kakamega,Unemployed,9,17,24,Opportunity_Shortage,There are very few job openings in Kakamega,Job creation initiative
+24,Female,Diploma,Kisumu,Unemployed,10,10,28,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+29,Female,Secondary,Nairobi,Employed,6,12,32,Geographic_Barrier,Living in Nairobi limits my access to job opportunities,Satellite office placement
+31,Male,Bachelor,Kakamega,Unemployed,12,37,17,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+27,Female,Primary,Nakuru,Employed,12,4,23,Market_Mismatch,There's a disconnect between my education and available jobs,Skill conversion training
+32,Male,Bachelor,Kisumu,Unemployed,13,21,29,Opportunity_Shortage,There are very few job openings in Kisumu,Public works program
+26,Female,Bachelor,Mombasa,Unemployed,5,6,22,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+27,Female,Secondary,Mombasa,Unemployed,7,9,6,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+26,Male,Secondary,Nyeri,Employed,12,23,35,Skills_Gap,My current skills are outdated for the modern job market in Nyeri,Industry certifications
+32,Female,Secondary,Eldoret,Employed,9,33,33,Geographic_Barrier,There's an urban-rural divide in job availability,Satellite office placement
+34,Male,Bachelor,Eldoret,Student,8,18,29,Opportunity_Shortage,The job market in Eldoret is saturated with job seekers,Public works program
+35,Female,Bachelor,Nakuru,Unemployed,5,47,16,Resource_Constraints,I lack resources to continue searching for jobs,Job search stipend
+32,Female,Bachelor,Mombasa,Self-employed,7,26,8,Market_Mismatch,There's a disconnect between my education and available jobs,Industry transition program
+23,Female,Secondary,Eldoret,Employed,14,11,3,Opportunity_Shortage,There are very few job openings in Eldoret,Entrepreneurship support
+21,Male,Bachelor,Nakuru,Unemployed,6,14,14,Opportunity_Shortage,There are very few job openings in Nakuru,Entrepreneurship support
+18,Female,Secondary,Machakos,Employed,2,12,35,Geographic_Barrier,Remote work options are limited in my field,Relocation support
+27,Female,Secondary,Machakos,Employed,9,15,16,Resource_Constraints,I lack resources to continue searching for jobs,Transport subsidy
+24,Female,Bachelor,Nakuru,Unemployed,3,2,22,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+30,Female,Diploma,Eldoret,Self-employed,5,42,31,Resource_Constraints,I can't afford the transportation costs for interviews,Transport subsidy
+33,Male,Diploma,Nyeri,Employed,10,6,25,Resource_Constraints,I lack resources to continue searching for jobs,Transport subsidy
+32,Female,Bachelor,Kisumu,Student,4,16,19,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+20,Female,Diploma,Nyeri,Employed,8,21,11,Resource_Constraints,Starting my own business requires capital I don't have,Business incubation
+28,Male,Secondary,Eldoret,Employed,14,31,10,Geographic_Barrier,There's an urban-rural divide in job availability,Remote work opportunity
+30,Male,Bachelor,Nakuru,Unemployed,8,37,9,Opportunity_Shortage,There are very few job openings in Nakuru,Public works program
+18,Female,Bachelor,Mombasa,Employed,8,9,14,Resource_Constraints,I lack resources to continue searching for jobs,Job search stipend
+29,Female,Diploma,Nyeri,Self-employed,0,2,13,Geographic_Barrier,Remote work options are limited in my field,Satellite office placement
+18,Female,Secondary,Machakos,Employed,1,48,17,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+22,Female,Secondary,Nairobi,Self-employed,2,29,21,Skills_Gap,My current skills are outdated for the modern job market in Nairobi,Technical training program
+18,Female,Secondary,Kisumu,Unemployed,9,15,13,Skills_Gap,I lack the technical skills needed for jobs in my field,Apprenticeship placement
+20,Female,Primary,Machakos,Employed,7,4,30,Geographic_Barrier,I can't relocate to where the jobs are available,Remote work opportunity
+26,Male,Primary,Nyeri,Unemployed,7,7,21,Resource_Constraints,I need financial support to relocate where jobs are available,Transport subsidy
+27,Male,Secondary,Mombasa,Employed,8,43,26,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+20,Female,Bachelor,Machakos,Employed,1,27,5,Geographic_Barrier,Living in Machakos limits my access to job opportunities,Satellite office placement
+20,Female,Bachelor,Nairobi,Unpaid work,2,31,25,Market_Mismatch,The industry I trained for is declining in Kenya,Skill conversion training
+23,Female,Secondary,Nakuru,Employed,14,17,17,Resource_Constraints,I lack resources to continue searching for jobs,Transport subsidy
+21,Male,PhD,Nairobi,Unpaid work,7,11,5,Resource_Constraints,Starting my own business requires capital I don't have,Business incubation
+22,Female,Secondary,Kisumu,Unemployed,1,11,7,Opportunity_Shortage,The job market in Kisumu is saturated with job seekers,Entrepreneurship support
+31,Male,Masters,Machakos,Unemployed,4,38,11,Skills_Gap,My current skills are outdated for the modern job market in Machakos,Technical training program
+24,Female,Diploma,Nakuru,Employed,8,1,28,Geographic_Barrier,Jobs in my field are only available far from where I live,Relocation support
+30,Male,Bachelor,Eldoret,Unemployed,0,12,29,Skills_Gap,My current skills are outdated for the modern job market in Eldoret,Apprenticeship placement
+29,Male,Bachelor,Nakuru,Employed,9,38,4,Market_Mismatch,My field of study doesn't have many opportunities locally,Career redirection counseling
+29,Male,Secondary,Nyeri,Employed,9,27,9,Resource_Constraints,The cost of living while job hunting is too high,Transport subsidy
+28,Female,Diploma,Kisumu,Employed,11,2,9,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+20,Male,Secondary,Machakos,Unemployed,8,37,13,Resource_Constraints,I can't afford the transportation costs for interviews,Startup capital support
+29,Female,Secondary,Nakuru,Unemployed,6,43,4,Geographic_Barrier,I can't relocate to where the jobs are available,Satellite office placement
+24,Female,Diploma,Mombasa,Unemployed,8,11,25,Geographic_Barrier,I can't relocate to where the jobs are available,Commuter subsidy
+27,Female,Diploma,Machakos,Unemployed,2,7,26,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+33,Female,Secondary,Nyeri,Employed,7,29,8,Geographic_Barrier,Jobs in my field are only available far from where I live,Remote work opportunity
+19,Male,Diploma,Nairobi,Unemployed,6,23,27,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+18,Male,Primary,Mombasa,Employed,11,2,32,Geographic_Barrier,Remote work options are limited in my field,Remote work opportunity
+30,Female,Bachelor,Mombasa,Student,10,11,14,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+27,Female,Primary,Nairobi,Unpaid work,1,28,29,Resource_Constraints,I can't afford the transportation costs for interviews,Transport subsidy
+35,Female,PhD,Nyeri,Student,4,10,21,Opportunity_Shortage,Companies aren't hiring in my field right now,Gig economy onboarding
+31,Female,Secondary,Machakos,Self-employed,10,44,0,Opportunity_Shortage,There are very few job openings in Machakos,Job creation initiative
+32,Male,Diploma,Nakuru,Unemployed,12,8,14,Skills_Gap,My current skills are outdated for the modern job market in Nakuru,Technical training program
+35,Female,Masters,Nairobi,Unemployed,5,13,6,Market_Mismatch,The industry I trained for is declining in Kenya,Industry transition program
+31,Male,Diploma,Kisumu,Employed,6,30,34,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Public works program
+30,Male,Primary,Mombasa,Unemployed,0,28,34,Opportunity_Shortage,Companies aren't hiring in my field right now,Gig economy onboarding
+27,Male,Masters,Kakamega,Self-employed,6,21,2,Geographic_Barrier,Remote work options are limited in my field,Satellite office placement
+31,Female,Primary,Machakos,Employed,2,42,4,Resource_Constraints,Starting my own business requires capital I don't have,Transport subsidy
+26,Male,Diploma,Kisumu,Self-employed,2,22,17,Market_Mismatch,My field of study doesn't have many opportunities locally,Alternative career path mentorship
+19,Female,Secondary,Nakuru,Unemployed,5,18,22,Geographic_Barrier,Remote work options are limited in my field,Relocation support
+32,Female,Secondary,Kakamega,Unemployed,13,48,28,Opportunity_Shortage,The job market in Kakamega is saturated with job seekers,Gig economy onboarding
+35,Female,Secondary,Nyeri,Unemployed,2,5,3,Resource_Constraints,The cost of living while job hunting is too high,Startup capital support
+31,Female,Secondary,Machakos,Unpaid work,6,37,29,Resource_Constraints,Starting my own business requires capital I don't have,Business incubation
+19,Female,Diploma,Machakos,Unemployed,9,46,19,Opportunity_Shortage,The job market in Machakos is saturated with job seekers,Gig economy onboarding
+29,Female,Primary,Mombasa,Student,3,48,5,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+22,Female,Secondary,Nakuru,Self-employed,2,12,1,Geographic_Barrier,I can't relocate to where the jobs are available,Remote work opportunity
+25,Male,Primary,Nairobi,Unemployed,0,27,9,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+21,Female,Primary,Nyeri,Student,10,9,2,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+32,Female,Bachelor,Kakamega,Self-employed,7,8,26,Resource_Constraints,The cost of living while job hunting is too high,Business incubation
+30,Male,Bachelor,Kakamega,Unemployed,13,40,35,Market_Mismatch,There's a disconnect between my education and available jobs,Alternative career path mentorship
+31,Female,Secondary,Eldoret,Self-employed,2,19,11,Geographic_Barrier,There's an urban-rural divide in job availability,Relocation support
+32,Male,Diploma,Eldoret,Employed,12,46,25,Geographic_Barrier,Jobs in my field are only available far from where I live,Commuter subsidy
+32,Female,Bachelor,Nyeri,Unemployed,1,21,27,Market_Mismatch,The industry I trained for is declining in Kenya,Career redirection counseling
+35,Female,Bachelor,Nairobi,Employed,11,25,27,Market_Mismatch,The industry I trained for is declining in Kenya,Skill conversion training
+30,Male,Secondary,Kakamega,Unpaid work,14,36,3,Market_Mismatch,My Secondary qualification doesn't match what employers want,Skill conversion training
+30,Female,Bachelor,Nyeri,Self-employed,7,41,12,Skills_Gap,Companies want experience with technologies I haven't learned,Technical training program
+24,Male,Bachelor,Nairobi,Employed,11,13,7,Market_Mismatch,My Bachelor qualification doesn't match what employers want,Alternative career path mentorship
+31,Female,Bachelor,Nairobi,Unemployed,13,33,32,Opportunity_Shortage,The job market in Nairobi is saturated with job seekers,Entrepreneurship support
+29,Male,Diploma,Machakos,Employed,1,28,35,Opportunity_Shortage,The job market in Machakos is saturated with job seekers,Public works program
+23,Female,Masters,Machakos,Student,10,12,6,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+28,Male,Secondary,Kakamega,Employed,7,28,16,Opportunity_Shortage,The job market in Kakamega is saturated with job seekers,Gig economy onboarding
+34,Female,Diploma,Kisumu,Unemployed,13,16,19,Market_Mismatch,The industry I trained for is declining in Kenya,Career redirection counseling
+34,Female,Secondary,Kisumu,Self-employed,11,21,9,Skills_Gap,I lack the technical skills needed for jobs in my field,Digital skills bootcamp
+25,Female,Secondary,Mombasa,Self-employed,1,28,27,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+20,Male,Bachelor,Kakamega,Self-employed,0,3,1,Geographic_Barrier,Jobs in my field are only available far from where I live,Remote work opportunity
+29,Female,Bachelor,Machakos,Self-employed,14,11,21,Resource_Constraints,Starting my own business requires capital I don't have,Transport subsidy
+21,Female,Primary,Eldoret,Employed,5,49,13,Opportunity_Shortage,There are very few job openings in Eldoret,Public works program
+26,Male,Primary,Eldoret,Unpaid work,10,47,3,Opportunity_Shortage,There are very few job openings in Eldoret,Public works program
+24,Female,Primary,Kisumu,Employed,3,23,22,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+31,Male,Secondary,Eldoret,Student,5,34,25,Opportunity_Shortage,There are very few job openings in Eldoret,Job creation initiative
+31,Male,Diploma,Nakuru,Unpaid work,2,44,22,Resource_Constraints,I need financial support to relocate where jobs are available,Job search stipend
+32,Male,Bachelor,Mombasa,Self-employed,5,18,15,Market_Mismatch,The industry I trained for is declining in Kenya,Industry transition program
+34,Male,Secondary,Eldoret,Unemployed,1,7,20,Resource_Constraints,I lack resources to continue searching for jobs,Job search stipend
+22,Female,Bachelor,Kakamega,Unpaid work,8,17,34,Opportunity_Shortage,Companies aren't hiring in my field right now,Entrepreneurship support
+24,Male,Diploma,Nakuru,Unemployed,7,10,2,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Public works program
+29,Female,Diploma,Nairobi,Student,14,39,16,Market_Mismatch,There's a disconnect between my education and available jobs,Career redirection counseling
+24,Female,Secondary,Kisumu,Unemployed,4,30,31,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+34,Female,Secondary,Eldoret,Unemployed,2,5,10,Skills_Gap,My current skills are outdated for the modern job market in Eldoret,Digital skills bootcamp
+24,Male,Secondary,Kakamega,Self-employed,5,6,26,Opportunity_Shortage,The job market in Kakamega is saturated with job seekers,Public works program
+22,Male,Bachelor,Mombasa,Employed,3,37,22,Market_Mismatch,My skills are not valued in the current job market,Skill conversion training
+19,Female,Secondary,Eldoret,Unemployed,0,37,2,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+32,Female,Bachelor,Machakos,Employed,2,38,24,Opportunity_Shortage,Companies aren't hiring in my field right now,Job creation initiative
+35,Male,Primary,Eldoret,Employed,3,30,18,Geographic_Barrier,There's an urban-rural divide in job availability,Remote work opportunity
+21,Female,Bachelor,Kakamega,Unemployed,13,13,16,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+32,Female,Primary,Kakamega,Student,8,14,2,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+31,Female,Primary,Nakuru,Unemployed,4,46,26,Skills_Gap,I lack the technical skills needed for jobs in my field,Industry certifications
+31,Female,Primary,Nyeri,Employed,9,49,24,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+29,Female,Primary,Nyeri,Unemployed,14,0,9,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+27,Female,Secondary,Kakamega,Unpaid work,13,27,18,Opportunity_Shortage,Companies aren't hiring in my field right now,Job creation initiative
+27,Female,Secondary,Kisumu,Employed,9,47,27,Resource_Constraints,The cost of living while job hunting is too high,Job search stipend
+18,Female,Diploma,Nairobi,Unemployed,9,26,16,Market_Mismatch,My skills are not valued in the current job market,Skill conversion training
+21,Male,Masters,Eldoret,Unpaid work,0,14,5,Market_Mismatch,My Masters qualification doesn't match what employers want,Career redirection counseling
+21,Female,Bachelor,Nakuru,Student,8,45,13,Market_Mismatch,My Bachelor qualification doesn't match what employers want,Industry transition program
+24,Female,Bachelor,Nairobi,Unemployed,9,34,26,Resource_Constraints,I can't afford the transportation costs for interviews,Business incubation
+20,Male,Secondary,Machakos,Employed,11,7,23,Resource_Constraints,The cost of living while job hunting is too high,Startup capital support
+22,Male,Bachelor,Nairobi,Unemployed,5,38,17,Resource_Constraints,I lack resources to continue searching for jobs,Startup capital support
+22,Female,Secondary,Nakuru,Unemployed,0,13,29,Geographic_Barrier,Jobs in my field are only available far from where I live,Satellite office placement
+29,Female,Masters,Mombasa,Unemployed,3,18,13,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+22,Male,Secondary,Nakuru,Employed,9,37,15,Resource_Constraints,Starting my own business requires capital I don't have,Transport subsidy
+18,Male,Bachelor,Mombasa,Unemployed,11,40,32,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+28,Female,Primary,Eldoret,Employed,7,1,35,Opportunity_Shortage,The job market in Eldoret is saturated with job seekers,Gig economy onboarding
+28,Male,Bachelor,Kakamega,Self-employed,6,26,32,Opportunity_Shortage,Companies aren't hiring in my field right now,Public works program
+33,Male,Bachelor,Eldoret,Unemployed,8,43,15,Resource_Constraints,Starting my own business requires capital I don't have,Startup capital support
+30,Male,Secondary,Nairobi,Self-employed,3,12,28,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+32,Male,Secondary,Nakuru,Unemployed,6,41,34,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+31,Female,Primary,Eldoret,Employed,8,30,12,Opportunity_Shortage,Too many graduates are competing for too few positions,Job creation initiative
+31,Female,Primary,Kakamega,Unemployed,0,2,15,Resource_Constraints,The cost of living while job hunting is too high,Startup capital support
+29,Female,Secondary,Eldoret,Unemployed,10,22,9,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+28,Female,Secondary,Kisumu,Unemployed,11,44,29,Skills_Gap,I lack the technical skills needed for jobs in my field,Apprenticeship placement
+18,Female,Masters,Nakuru,Unemployed,12,14,7,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+26,Female,Diploma,Mombasa,Employed,12,12,4,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+32,Male,Secondary,Kakamega,Self-employed,7,25,29,Geographic_Barrier,Jobs in my field are only available far from where I live,Satellite office placement
+33,Female,Primary,Mombasa,Unemployed,1,9,25,Skills_Gap,I lack the technical skills needed for jobs in my field,Apprenticeship placement
+19,Female,Secondary,Nyeri,Unemployed,10,44,17,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+24,Female,Secondary,Mombasa,Unemployed,6,7,27,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+26,Male,Bachelor,Kisumu,Unemployed,0,19,34,Skills_Gap,I lack the technical skills needed for jobs in my field,Industry certifications
+24,Male,Secondary,Mombasa,Unemployed,1,17,22,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+33,Female,Bachelor,Kisumu,Self-employed,0,3,15,Market_Mismatch,The industry I trained for is declining in Kenya,Career redirection counseling
+27,Male,Primary,Nakuru,Unemployed,11,39,5,Geographic_Barrier,There's an urban-rural divide in job availability,Relocation support
+30,Male,Bachelor,Nairobi,Unpaid work,6,31,11,Opportunity_Shortage,Companies aren't hiring in my field right now,Entrepreneurship support
+18,Male,Secondary,Nyeri,Unemployed,11,24,31,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+31,Female,Diploma,Machakos,Unemployed,9,30,13,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Gig economy onboarding
+21,Male,Diploma,Machakos,Employed,13,33,22,Geographic_Barrier,There's an urban-rural divide in job availability,Commuter subsidy
+32,Female,Diploma,Nakuru,Unpaid work,11,49,29,Geographic_Barrier,Jobs in my field are only available far from where I live,Satellite office placement
+27,Female,Secondary,Kisumu,Unemployed,1,3,1,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+24,Female,Secondary,Eldoret,Self-employed,7,29,26,Market_Mismatch,My skills are not valued in the current job market,Career redirection counseling
+32,Male,Diploma,Eldoret,Self-employed,8,25,24,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+23,Female,Diploma,Kakamega,Employed,2,38,2,Resource_Constraints,The cost of living while job hunting is too high,Job search stipend
+19,Female,Diploma,Kakamega,Student,6,3,6,Resource_Constraints,I lack resources to continue searching for jobs,Business incubation
+21,Female,Secondary,Eldoret,Unemployed,8,36,26,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+26,Female,Primary,Kakamega,Unemployed,12,33,10,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+26,Male,Secondary,Nakuru,Unemployed,3,6,14,Resource_Constraints,The cost of living while job hunting is too high,Business incubation
+26,Female,Diploma,Mombasa,Student,0,41,32,Resource_Constraints,I need financial support to relocate where jobs are available,Transport subsidy
+22,Female,Bachelor,Kakamega,Employed,4,35,26,Opportunity_Shortage,Companies aren't hiring in my field right now,Gig economy onboarding
+35,Male,Primary,Nairobi,Employed,11,19,12,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+32,Female,Secondary,Kisumu,Self-employed,13,39,30,Market_Mismatch,The industry I trained for is declining in Kenya,Alternative career path mentorship
+30,Male,Secondary,Nyeri,Self-employed,14,47,29,Geographic_Barrier,I can't relocate to where the jobs are available,Remote work opportunity
+25,Female,Bachelor,Eldoret,Employed,6,19,14,Resource_Constraints,Starting my own business requires capital I don't have,Transport subsidy
+21,Female,Primary,Machakos,Student,10,5,2,Resource_Constraints,I can't afford the transportation costs for interviews,Business incubation
+22,Female,Secondary,Kakamega,Unemployed,13,2,28,Skills_Gap,My current skills are outdated for the modern job market in Kakamega,Industry certifications
+18,Male,Secondary,Kisumu,Unemployed,10,26,31,Skills_Gap,My current skills are outdated for the modern job market in Kisumu,Industry certifications
+35,Male,Masters,Kakamega,Self-employed,0,22,0,Geographic_Barrier,Jobs in my field are only available far from where I live,Commuter subsidy
+21,Female,Primary,Kisumu,Employed,5,10,15,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+34,Female,Masters,Mombasa,Student,4,47,31,Market_Mismatch,My Masters qualification doesn't match what employers want,Alternative career path mentorship
+26,Male,Secondary,Eldoret,Unemployed,14,30,20,Resource_Constraints,I can't afford the transportation costs for interviews,Startup capital support
+31,Male,Bachelor,Machakos,Unemployed,12,23,22,Opportunity_Shortage,The job market in Machakos is saturated with job seekers,Job creation initiative
+24,Female,Bachelor,Machakos,Employed,3,0,6,Geographic_Barrier,There's an urban-rural divide in job availability,Remote work opportunity
+19,Female,Secondary,Kisumu,Unemployed,5,7,33,Opportunity_Shortage,The job market in Kisumu is saturated with job seekers,Job creation initiative
+23,Female,Secondary,Kakamega,Unemployed,11,33,16,Opportunity_Shortage,The job market in Kakamega is saturated with job seekers,Gig economy onboarding
+18,Female,Primary,Eldoret,Self-employed,1,31,34,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+31,Male,Primary,Eldoret,Student,2,1,6,Skills_Gap,I lack the technical skills needed for jobs in my field,Industry certifications
+26,Male,Bachelor,Kisumu,Employed,8,20,26,Geographic_Barrier,Remote work options are limited in my field,Relocation support
+24,Male,Diploma,Nakuru,Employed,3,9,9,Resource_Constraints,I can't afford the transportation costs for interviews,Startup capital support
+23,Female,Primary,Nyeri,Unemployed,14,26,3,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+26,Female,Bachelor,Eldoret,Self-employed,3,10,26,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+28,Female,Primary,Kisumu,Unemployed,12,31,7,Geographic_Barrier,Remote work options are limited in my field,Satellite office placement
+27,Male,Bachelor,Eldoret,Employed,0,49,1,Skills_Gap,I lack the technical skills needed for jobs in my field,Industry certifications
+19,Female,Primary,Kakamega,Employed,6,31,15,Resource_Constraints,Starting my own business requires capital I don't have,Business incubation
+29,Female,Diploma,Machakos,Unemployed,8,31,15,Market_Mismatch,My skills are not valued in the current job market,Career redirection counseling
+22,Male,Bachelor,Nyeri,Unemployed,9,18,19,Resource_Constraints,I can't afford the transportation costs for interviews,Transport subsidy
+27,Female,Diploma,Nakuru,Unpaid work,12,23,14,Opportunity_Shortage,The job market in Nakuru is saturated with job seekers,Entrepreneurship support
+29,Male,Primary,Machakos,Unemployed,13,12,7,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+35,Female,Secondary,Kakamega,Student,2,46,33,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+29,Female,Masters,Eldoret,Unemployed,12,36,29,Resource_Constraints,I need financial support to relocate where jobs are available,Job search stipend
+19,Male,Diploma,Kisumu,Unemployed,0,19,1,Geographic_Barrier,Jobs in my field are only available far from where I live,Relocation support
+18,Female,Primary,Kisumu,Self-employed,13,28,11,Opportunity_Shortage,The job market in Kisumu is saturated with job seekers,Gig economy onboarding
+25,Female,Secondary,Kisumu,Unemployed,11,37,25,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+35,Female,Bachelor,Machakos,Unemployed,5,5,27,Opportunity_Shortage,Companies aren't hiring in my field right now,Job creation initiative
+26,Male,Secondary,Kakamega,Unemployed,0,40,19,Opportunity_Shortage,The job market in Kakamega is saturated with job seekers,Entrepreneurship support
+29,Female,Diploma,Eldoret,Unemployed,14,1,22,Resource_Constraints,I need financial support to relocate where jobs are available,Transport subsidy
+21,Male,PhD,Machakos,Unpaid work,10,34,3,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+34,Female,Bachelor,Nyeri,Unemployed,6,18,24,Market_Mismatch,My field of study doesn't have many opportunities locally,Skill conversion training
+27,Female,Secondary,Machakos,Student,4,42,20,Market_Mismatch,My field of study doesn't have many opportunities locally,Industry transition program
+27,Male,Secondary,Kisumu,Unemployed,9,16,3,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+25,Male,Diploma,Kakamega,Unemployed,14,4,1,Resource_Constraints,I lack resources to continue searching for jobs,Startup capital support
+20,Male,Secondary,Mombasa,Self-employed,13,45,6,Market_Mismatch,The industry I trained for is declining in Kenya,Skill conversion training
+20,Female,Secondary,Eldoret,Employed,8,47,26,Market_Mismatch,My field of study doesn't have many opportunities locally,Career redirection counseling
+18,Male,Diploma,Kisumu,Self-employed,3,29,2,Opportunity_Shortage,Companies aren't hiring in my field right now,Public works program
+19,Female,Secondary,Kisumu,Unemployed,8,16,0,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+23,Female,Diploma,Nairobi,Unemployed,11,18,34,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+28,Female,Secondary,Nakuru,Unemployed,10,4,16,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+19,Male,Secondary,Kisumu,Unemployed,9,20,31,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+23,Female,Secondary,Mombasa,Employed,1,40,11,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+29,Female,Secondary,Nyeri,Employed,9,11,19,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+30,Female,PhD,Machakos,Unpaid work,2,4,34,Opportunity_Shortage,Companies aren't hiring in my field right now,Public works program
+22,Male,Primary,Mombasa,Unemployed,4,49,21,Opportunity_Shortage,The job market in Mombasa is saturated with job seekers,Gig economy onboarding
+27,Female,Bachelor,Kakamega,Unemployed,5,35,28,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+25,Female,Masters,Nakuru,Employed,13,34,19,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+20,Female,Secondary,Kakamega,Employed,1,41,2,Geographic_Barrier,Jobs in my field are only available far from where I live,Remote work opportunity
+27,Male,Secondary,Nakuru,Employed,0,13,4,Market_Mismatch,There's a disconnect between my education and available jobs,Career redirection counseling
+34,Male,Diploma,Nairobi,Employed,0,7,15,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Public works program
+32,Male,Secondary,Kakamega,Employed,0,37,28,Geographic_Barrier,Remote work options are limited in my field,Satellite office placement
+20,Female,Primary,Nakuru,Employed,5,37,25,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+23,Female,Masters,Kakamega,Self-employed,6,39,18,Geographic_Barrier,Living in Kakamega limits my access to job opportunities,Satellite office placement
+33,Female,Diploma,Nairobi,Self-employed,0,16,10,Resource_Constraints,I lack resources to continue searching for jobs,Transport subsidy
+21,Male,Diploma,Kakamega,Unemployed,2,46,10,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+21,Female,Diploma,Nyeri,Unemployed,1,41,3,Market_Mismatch,The industry I trained for is declining in Kenya,Skill conversion training
+22,Male,Primary,Nairobi,Unemployed,12,17,6,Resource_Constraints,I lack resources to continue searching for jobs,Transport subsidy
+24,Female,Bachelor,Machakos,Unemployed,2,15,16,Geographic_Barrier,I can't relocate to where the jobs are available,Commuter subsidy
+18,Female,Secondary,Machakos,Unemployed,11,11,14,Resource_Constraints,Starting my own business requires capital I don't have,Startup capital support
+29,Female,Primary,Mombasa,Unemployed,2,42,4,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+27,Female,Secondary,Mombasa,Unemployed,6,38,4,Skills_Gap,My current skills are outdated for the modern job market in Mombasa,Digital skills bootcamp
+29,Female,Diploma,Kisumu,Unemployed,2,26,30,Opportunity_Shortage,Too many graduates are competing for too few positions,Public works program
+24,Male,Diploma,Machakos,Employed,1,15,16,Opportunity_Shortage,The job market in Machakos is saturated with job seekers,Job creation initiative
+22,Male,Secondary,Kisumu,Unemployed,9,42,6,Skills_Gap,My current skills are outdated for the modern job market in Kisumu,Technical training program
+20,Male,Diploma,Kisumu,Unemployed,0,31,17,Opportunity_Shortage,There are very few job openings in Kisumu,Entrepreneurship support
+22,Female,Primary,Mombasa,Self-employed,8,11,6,Market_Mismatch,There's a disconnect between my education and available jobs,Alternative career path mentorship
+28,Male,Secondary,Eldoret,Unemployed,12,25,19,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+19,Male,Bachelor,Kisumu,Unemployed,0,21,9,Opportunity_Shortage,There are very few job openings in Kisumu,Gig economy onboarding
+21,Female,Secondary,Mombasa,Student,3,35,25,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Gig economy onboarding
+31,Female,Bachelor,Kisumu,Employed,0,19,20,Market_Mismatch,My field of study doesn't have many opportunities locally,Alternative career path mentorship
+27,Female,Diploma,Machakos,Unemployed,12,2,1,Opportunity_Shortage,There are very few job openings in Machakos,Entrepreneurship support
+19,Female,Primary,Kisumu,Unemployed,12,27,0,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+24,Female,Bachelor,Kisumu,Self-employed,7,47,33,Opportunity_Shortage,The job market in Kisumu is saturated with job seekers,Job creation initiative
+25,Female,Diploma,Machakos,Unemployed,7,37,12,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+34,Male,Secondary,Mombasa,Unemployed,7,27,2,Skills_Gap,Companies want experience with technologies I haven't learned,Apprenticeship placement
+26,Male,Bachelor,Kisumu,Unemployed,10,6,22,Resource_Constraints,I lack resources to continue searching for jobs,Startup capital support
+24,Male,Bachelor,Mombasa,Employed,14,37,22,Opportunity_Shortage,The job market in Mombasa is saturated with job seekers,Entrepreneurship support
+24,Male,Bachelor,Machakos,Employed,9,5,34,Market_Mismatch,The industry I trained for is declining in Kenya,Alternative career path mentorship
+26,Male,Secondary,Machakos,Self-employed,12,30,15,Market_Mismatch,My field of study doesn't have many opportunities locally,Skill conversion training
+28,Female,Diploma,Nyeri,Unemployed,4,10,1,Resource_Constraints,Starting my own business requires capital I don't have,Startup capital support
+22,Female,Secondary,Mombasa,Unemployed,12,46,13,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+31,Female,Secondary,Mombasa,Unemployed,7,16,34,Skills_Gap,My current skills are outdated for the modern job market in Mombasa,Apprenticeship placement
+21,Male,Secondary,Kakamega,Employed,13,3,14,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+25,Female,Masters,Machakos,Employed,10,15,24,Opportunity_Shortage,Too many graduates are competing for too few positions,Job creation initiative
+35,Female,Bachelor,Kisumu,Employed,2,14,1,Opportunity_Shortage,There are very few job openings in Kisumu,Public works program
+32,Male,Primary,Kakamega,Self-employed,10,25,29,Geographic_Barrier,Jobs in my field are only available far from where I live,Commuter subsidy
+28,Male,Secondary,Nyeri,Unemployed,6,43,31,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+24,Male,Secondary,Kakamega,Unemployed,8,33,24,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+19,Female,Secondary,Machakos,Self-employed,3,2,30,Geographic_Barrier,Jobs in my field are only available far from where I live,Commuter subsidy
+28,Female,Bachelor,Nyeri,Employed,2,12,21,Resource_Constraints,I can't afford the transportation costs for interviews,Transport subsidy
+33,Male,Secondary,Kisumu,Unemployed,7,4,19,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+34,Female,Masters,Machakos,Unemployed,14,42,25,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Job creation initiative
+28,Female,Masters,Mombasa,Employed,2,0,13,Market_Mismatch,My field of study doesn't have many opportunities locally,Career redirection counseling
+18,Female,Bachelor,Mombasa,Unpaid work,5,27,13,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Gig economy onboarding
+22,Male,PhD,Nairobi,Unemployed,3,9,34,Opportunity_Shortage,Companies aren't hiring in my field right now,Gig economy onboarding
+28,Male,Secondary,Nairobi,Self-employed,2,32,18,Resource_Constraints,I need financial support to relocate where jobs are available,Job search stipend
+34,Male,Bachelor,Mombasa,Student,4,5,13,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+24,Male,Secondary,Nairobi,Unemployed,11,11,21,Skills_Gap,My current skills are outdated for the modern job market in Nairobi,Apprenticeship placement
+29,Female,Secondary,Machakos,Unemployed,10,25,24,Opportunity_Shortage,There are very few job openings in Machakos,Public works program
+28,Male,Bachelor,Kakamega,Unemployed,8,21,29,Geographic_Barrier,Jobs in my field are only available far from where I live,Commuter subsidy
+26,Female,Secondary,Kisumu,Student,5,39,33,Market_Mismatch,My Secondary qualification doesn't match what employers want,Career redirection counseling
+21,Male,Masters,Machakos,Student,13,16,12,Geographic_Barrier,Living in Machakos limits my access to job opportunities,Satellite office placement
+28,Female,Secondary,Nakuru,Unemployed,2,5,16,Skills_Gap,My current skills are outdated for the modern job market in Nakuru,Technical training program
+25,Male,Masters,Eldoret,Student,9,38,5,Opportunity_Shortage,There are very few job openings in Eldoret,Gig economy onboarding
+33,Male,Secondary,Nakuru,Unemployed,5,38,22,Resource_Constraints,I lack resources to continue searching for jobs,Startup capital support
+27,Female,Secondary,Kisumu,Employed,13,44,25,Resource_Constraints,I need financial support to relocate where jobs are available,Business incubation
+22,Female,Bachelor,Nairobi,Student,14,4,0,Opportunity_Shortage,The job market in Nairobi is saturated with job seekers,Job creation initiative
+21,Female,Secondary,Nyeri,Unemployed,11,48,7,Geographic_Barrier,Living in Nyeri limits my access to job opportunities,Commuter subsidy
+29,Male,Masters,Machakos,Self-employed,13,34,12,Resource_Constraints,The cost of living while job hunting is too high,Business incubation
+32,Male,Primary,Mombasa,Employed,1,44,4,Market_Mismatch,The industry I trained for is declining in Kenya,Alternative career path mentorship
+21,Female,Primary,Nyeri,Unemployed,3,36,17,Skills_Gap,I lack the technical skills needed for jobs in my field,Apprenticeship placement
+22,Male,Diploma,Machakos,Unemployed,11,16,6,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+28,Male,Masters,Eldoret,Unemployed,5,21,23,Market_Mismatch,My field of study doesn't have many opportunities locally,Career redirection counseling
+35,Male,Secondary,Kisumu,Unemployed,7,48,10,Skills_Gap,I lack the technical skills needed for jobs in my field,Apprenticeship placement
+28,Female,Secondary,Kakamega,Self-employed,3,12,22,Skills_Gap,Companies want experience with technologies I haven't learned,Technical training program
+25,Female,Secondary,Mombasa,Employed,14,6,30,Market_Mismatch,The industry I trained for is declining in Kenya,Skill conversion training
+34,Female,PhD,Eldoret,Student,0,4,33,Resource_Constraints,Starting my own business requires capital I don't have,Job search stipend
+34,Male,Bachelor,Nairobi,Unemployed,6,39,0,Skills_Gap,I lack the technical skills needed for jobs in my field,Apprenticeship placement
+22,Female,Primary,Kisumu,Unemployed,14,13,23,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+24,Female,Diploma,Mombasa,Unemployed,1,11,26,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+21,Male,Primary,Mombasa,Student,8,45,12,Market_Mismatch,My skills are not valued in the current job market,Alternative career path mentorship
+22,Male,Diploma,Nyeri,Unemployed,2,32,4,Opportunity_Shortage,The job market in Nyeri is saturated with job seekers,Job creation initiative
+18,Female,Masters,Eldoret,Unemployed,12,48,5,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Public works program
+27,Male,Diploma,Kakamega,Unemployed,14,33,0,Market_Mismatch,The industry I trained for is declining in Kenya,Alternative career path mentorship
+19,Male,Bachelor,Kakamega,Employed,9,21,2,Resource_Constraints,Starting my own business requires capital I don't have,Business incubation
+23,Male,Primary,Machakos,Self-employed,1,3,12,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+23,Male,Secondary,Nyeri,Employed,13,43,28,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+31,Male,Diploma,Eldoret,Student,5,32,31,Skills_Gap,I lack the technical skills needed for jobs in my field,Industry certifications
+25,Female,Secondary,Eldoret,Employed,2,44,18,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+26,Male,Primary,Nakuru,Self-employed,5,40,35,Opportunity_Shortage,Too many graduates are competing for too few positions,Public works program
+32,Female,Bachelor,Nairobi,Unpaid work,6,12,21,Opportunity_Shortage,Companies aren't hiring in my field right now,Entrepreneurship support
+32,Male,Secondary,Machakos,Unemployed,4,8,10,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Public works program
+32,Male,Secondary,Nakuru,Unpaid work,14,25,7,Market_Mismatch,My field of study doesn't have many opportunities locally,Career redirection counseling
+21,Female,Secondary,Nyeri,Unpaid work,2,1,12,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Job creation initiative
+22,Female,Secondary,Nyeri,Employed,11,48,10,Geographic_Barrier,Jobs in my field are only available far from where I live,Relocation support
+29,Male,Secondary,Kisumu,Employed,0,18,18,Geographic_Barrier,There's an urban-rural divide in job availability,Commuter subsidy
+34,Male,Bachelor,Nairobi,Unemployed,9,34,15,Opportunity_Shortage,There are very few job openings in Nairobi,Entrepreneurship support
+23,Male,Diploma,Machakos,Employed,11,7,16,Opportunity_Shortage,Companies aren't hiring in my field right now,Public works program
+30,Male,Diploma,Nyeri,Unemployed,0,39,26,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Public works program
+21,Female,Masters,Nairobi,Employed,1,3,10,Geographic_Barrier,Living in Nairobi limits my access to job opportunities,Remote work opportunity
+32,Female,Primary,Kisumu,Employed,0,46,33,Market_Mismatch,My skills are not valued in the current job market,Industry transition program
+24,Male,Secondary,Nairobi,Unemployed,1,2,16,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+24,Male,Diploma,Nakuru,Unemployed,4,37,9,Opportunity_Shortage,Too many graduates are competing for too few positions,Public works program
+30,Female,Secondary,Eldoret,Employed,13,10,9,Resource_Constraints,Starting my own business requires capital I don't have,Job search stipend
+21,Female,Secondary,Kisumu,Employed,6,30,6,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+28,Male,Bachelor,Eldoret,Self-employed,13,34,23,Geographic_Barrier,Jobs in my field are only available far from where I live,Remote work opportunity
+21,Male,Bachelor,Machakos,Unemployed,13,41,9,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+21,Female,Secondary,Nakuru,Unemployed,10,18,19,Geographic_Barrier,There's an urban-rural divide in job availability,Satellite office placement
+20,Male,Bachelor,Eldoret,Self-employed,10,15,9,Skills_Gap,Companies want experience with technologies I haven't learned,Apprenticeship placement
+30,Male,Bachelor,Mombasa,Unemployed,11,35,11,Market_Mismatch,My field of study doesn't have many opportunities locally,Alternative career path mentorship
+33,Male,Secondary,Eldoret,Self-employed,9,32,26,Skills_Gap,I lack the technical skills needed for jobs in my field,Industry certifications
+29,Male,Secondary,Kakamega,Employed,3,36,20,Market_Mismatch,My field of study doesn't have many opportunities locally,Skill conversion training
+33,Female,Secondary,Nyeri,Self-employed,6,2,14,Market_Mismatch,My field of study doesn't have many opportunities locally,Industry transition program
+33,Male,Bachelor,Nyeri,Employed,12,25,0,Market_Mismatch,There's a disconnect between my education and available jobs,Alternative career path mentorship
+18,Female,Diploma,Nyeri,Unemployed,10,34,15,Opportunity_Shortage,Companies aren't hiring in my field right now,Job creation initiative
+29,Male,Bachelor,Machakos,Employed,0,45,5,Skills_Gap,My current skills are outdated for the modern job market in Machakos,Apprenticeship placement
+18,Male,Diploma,Kisumu,Unemployed,3,16,1,Market_Mismatch,My field of study doesn't have many opportunities locally,Alternative career path mentorship
+34,Female,Bachelor,Nairobi,Unpaid work,10,32,3,Skills_Gap,I lack the technical skills needed for jobs in my field,Industry certifications
+30,Male,Secondary,Nairobi,Self-employed,7,16,23,Resource_Constraints,I can't afford the transportation costs for interviews,Transport subsidy
+19,Female,Masters,Mombasa,Employed,8,35,0,Market_Mismatch,My field of study doesn't have many opportunities locally,Career redirection counseling
+30,Female,Primary,Eldoret,Self-employed,2,43,21,Geographic_Barrier,Living in Eldoret limits my access to job opportunities,Commuter subsidy
+20,Male,Primary,Kakamega,Unemployed,14,19,11,Skills_Gap,My current skills are outdated for the modern job market in Kakamega,Technical training program
+19,Male,Secondary,Eldoret,Student,6,28,15,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+24,Male,Secondary,Nakuru,Unemployed,13,30,30,Opportunity_Shortage,There are very few job openings in Nakuru,Gig economy onboarding
+32,Male,Bachelor,Machakos,Unemployed,6,3,21,Opportunity_Shortage,There are very few job openings in Machakos,Gig economy onboarding
+27,Female,Bachelor,Nakuru,Unemployed,6,13,32,Skills_Gap,My current skills are outdated for the modern job market in Nakuru,Technical training program
+20,Male,Masters,Eldoret,Unpaid work,6,15,7,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+28,Male,Masters,Machakos,Unemployed,9,6,15,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+29,Male,Bachelor,Kisumu,Employed,9,29,19,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+25,Male,Bachelor,Eldoret,Student,5,16,8,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+33,Female,Secondary,Nairobi,Self-employed,1,43,11,Market_Mismatch,There's a disconnect between my education and available jobs,Career redirection counseling
+25,Male,Primary,Machakos,Employed,3,6,7,Resource_Constraints,I need financial support to relocate where jobs are available,Business incubation
+24,Male,Secondary,Nairobi,Unpaid work,5,14,21,Opportunity_Shortage,There are very few job openings in Nairobi,Gig economy onboarding
+21,Female,Secondary,Mombasa,Unemployed,14,24,27,Opportunity_Shortage,Companies aren't hiring in my field right now,Job creation initiative
+26,Male,Bachelor,Kakamega,Unpaid work,4,30,29,Market_Mismatch,There's a disconnect between my education and available jobs,Alternative career path mentorship
+32,Female,Primary,Nakuru,Unemployed,1,3,15,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+28,Female,Primary,Machakos,Unemployed,1,27,29,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+29,Male,Secondary,Nyeri,Unpaid work,0,44,26,Resource_Constraints,I can't afford the transportation costs for interviews,Business incubation
+23,Male,Primary,Eldoret,Unemployed,1,45,14,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+19,Female,Diploma,Mombasa,Unemployed,10,12,35,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+26,Female,Secondary,Nakuru,Unemployed,10,48,20,Skills_Gap,My current skills are outdated for the modern job market in Nakuru,Apprenticeship placement
+35,Female,Diploma,Nyeri,Unemployed,10,46,2,Opportunity_Shortage,The job market in Nyeri is saturated with job seekers,Job creation initiative
+22,Male,Primary,Machakos,Unemployed,2,47,4,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+27,Female,Diploma,Nyeri,Unemployed,6,7,29,Opportunity_Shortage,Too many graduates are competing for too few positions,Job creation initiative
+24,Female,Masters,Machakos,Employed,1,40,20,Resource_Constraints,The cost of living while job hunting is too high,Job search stipend
+24,Female,Bachelor,Nairobi,Self-employed,9,16,32,Resource_Constraints,I can't afford the transportation costs for interviews,Startup capital support
+18,Male,Primary,Eldoret,Unemployed,14,32,10,Resource_Constraints,I lack resources to continue searching for jobs,Job search stipend
+19,Male,Secondary,Nakuru,Unemployed,9,37,16,Skills_Gap,My current skills are outdated for the modern job market in Nakuru,Apprenticeship placement
+30,Female,Bachelor,Machakos,Student,3,19,25,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+31,Male,Secondary,Machakos,Student,13,18,8,Skills_Gap,I lack the technical skills needed for jobs in my field,Digital skills bootcamp
+33,Female,Bachelor,Kisumu,Self-employed,14,43,20,Geographic_Barrier,I can't relocate to where the jobs are available,Commuter subsidy
+30,Female,Masters,Kakamega,Unemployed,7,22,31,Geographic_Barrier,Remote work options are limited in my field,Commuter subsidy
+35,Female,Diploma,Eldoret,Employed,13,44,11,Geographic_Barrier,I can't relocate to where the jobs are available,Commuter subsidy
+21,Female,Secondary,Nyeri,Employed,14,7,3,Resource_Constraints,The cost of living while job hunting is too high,Business incubation
+27,Female,Masters,Eldoret,Employed,3,42,8,Resource_Constraints,I lack resources to continue searching for jobs,Business incubation
+33,Female,Secondary,Eldoret,Unemployed,1,14,10,Opportunity_Shortage,Companies aren't hiring in my field right now,Entrepreneurship support
+24,Male,Primary,Mombasa,Employed,13,38,26,Skills_Gap,Companies want experience with technologies I haven't learned,Technical training program
+28,Male,Secondary,Nakuru,Unemployed,6,36,22,Skills_Gap,My current skills are outdated for the modern job market in Nakuru,Industry certifications
+24,Female,Bachelor,Machakos,Self-employed,6,48,1,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+22,Male,Secondary,Machakos,Student,5,35,11,Geographic_Barrier,Living in Machakos limits my access to job opportunities,Commuter subsidy
+19,Male,Secondary,Nakuru,Unemployed,14,24,8,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+35,Male,Masters,Machakos,Student,8,43,35,Resource_Constraints,The cost of living while job hunting is too high,Business incubation
+31,Male,Secondary,Nakuru,Unemployed,7,12,22,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+23,Female,PhD,Nyeri,Self-employed,3,27,11,Market_Mismatch,There's a disconnect between my education and available jobs,Skill conversion training
+18,Female,Diploma,Mombasa,Unemployed,12,14,30,Resource_Constraints,I need financial support to relocate where jobs are available,Job search stipend
+22,Female,Primary,Mombasa,Employed,4,6,6,Market_Mismatch,My field of study doesn't have many opportunities locally,Skill conversion training
+30,Female,Primary,Kakamega,Self-employed,4,17,16,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+21,Female,Bachelor,Nyeri,Self-employed,2,30,35,Opportunity_Shortage,The job market in Nyeri is saturated with job seekers,Public works program
+33,Male,Secondary,Eldoret,Unemployed,2,26,34,Market_Mismatch,My Secondary qualification doesn't match what employers want,Skill conversion training
+18,Male,Secondary,Mombasa,Unemployed,8,38,32,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+26,Female,Masters,Machakos,Student,12,10,23,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+27,Male,Bachelor,Mombasa,Employed,9,39,8,Market_Mismatch,The industry I trained for is declining in Kenya,Industry transition program
+22,Male,Diploma,Mombasa,Employed,14,18,6,Resource_Constraints,The cost of living while job hunting is too high,Startup capital support
+25,Male,Secondary,Nakuru,Employed,12,42,30,Market_Mismatch,There's a disconnect between my education and available jobs,Skill conversion training
+18,Female,Primary,Nyeri,Unemployed,5,29,13,Skills_Gap,My current skills are outdated for the modern job market in Nyeri,Apprenticeship placement
+24,Female,Primary,Eldoret,Unemployed,13,23,19,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+29,Male,Diploma,Machakos,Unemployed,4,33,0,Opportunity_Shortage,Companies aren't hiring in my field right now,Public works program
+25,Female,Secondary,Eldoret,Unemployed,14,40,23,Opportunity_Shortage,Companies aren't hiring in my field right now,Job creation initiative
+33,Male,Masters,Nairobi,Unemployed,1,40,20,Opportunity_Shortage,Companies aren't hiring in my field right now,Gig economy onboarding
+19,Male,Masters,Machakos,Employed,2,43,30,Geographic_Barrier,Living in Machakos limits my access to job opportunities,Commuter subsidy
+31,Male,Primary,Machakos,Employed,8,27,6,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+35,Female,Diploma,Mombasa,Employed,6,19,13,Market_Mismatch,My skills are not valued in the current job market,Skill conversion training
+31,Female,Secondary,Kisumu,Student,14,38,33,Resource_Constraints,Starting my own business requires capital I don't have,Transport subsidy
+25,Female,Masters,Nyeri,Employed,4,18,28,Opportunity_Shortage,There are very few job openings in Nyeri,Public works program
+34,Male,Diploma,Eldoret,Unemployed,9,14,13,Opportunity_Shortage,Too many graduates are competing for too few positions,Public works program
+32,Male,Diploma,Nakuru,Self-employed,4,38,11,Resource_Constraints,I need financial support to relocate where jobs are available,Transport subsidy
+31,Female,Bachelor,Mombasa,Self-employed,5,3,2,Market_Mismatch,There's a disconnect between my education and available jobs,Alternative career path mentorship
+34,Male,Bachelor,Nyeri,Student,1,22,11,Opportunity_Shortage,Too many graduates are competing for too few positions,Public works program
+26,Female,Bachelor,Kisumu,Unemployed,5,6,32,Skills_Gap,I lack the technical skills needed for jobs in my field,Digital skills bootcamp
+22,Male,Primary,Nairobi,Unemployed,12,48,4,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+31,Female,Secondary,Nakuru,Self-employed,1,37,25,Market_Mismatch,My field of study doesn't have many opportunities locally,Industry transition program
+26,Male,Secondary,Eldoret,Employed,1,24,35,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Job creation initiative
+30,Female,Primary,Nakuru,Self-employed,11,48,1,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+24,Female,Bachelor,Mombasa,Employed,12,23,15,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Job creation initiative
+28,Male,Masters,Machakos,Unpaid work,2,16,1,Opportunity_Shortage,There are very few job openings in Machakos,Job creation initiative
+29,Female,Primary,Nakuru,Unemployed,6,22,32,Skills_Gap,I lack the technical skills needed for jobs in my field,Industry certifications
+24,Female,Bachelor,Mombasa,Self-employed,3,18,3,Market_Mismatch,The industry I trained for is declining in Kenya,Industry transition program
+19,Male,Primary,Nakuru,Unemployed,12,28,30,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+25,Male,Secondary,Nairobi,Self-employed,2,12,18,Resource_Constraints,I need financial support to relocate where jobs are available,Job search stipend
+35,Male,Secondary,Kakamega,Student,11,0,2,Market_Mismatch,My Secondary qualification doesn't match what employers want,Industry transition program
+35,Male,Bachelor,Kisumu,Student,10,10,23,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+18,Male,Diploma,Machakos,Unpaid work,0,37,10,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+35,Male,Diploma,Nairobi,Employed,11,16,29,Skills_Gap,My current skills are outdated for the modern job market in Nairobi,Apprenticeship placement
+22,Female,Masters,Kakamega,Employed,8,14,22,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Job creation initiative
+24,Female,Secondary,Nakuru,Employed,3,14,24,Market_Mismatch,My skills are not valued in the current job market,Alternative career path mentorship
+29,Male,Secondary,Machakos,Self-employed,13,39,10,Resource_Constraints,The cost of living while job hunting is too high,Transport subsidy
+31,Female,Primary,Nairobi,Employed,6,16,23,Geographic_Barrier,There's an urban-rural divide in job availability,Relocation support
+19,Female,Secondary,Mombasa,Student,11,4,19,Resource_Constraints,Starting my own business requires capital I don't have,Business incubation
+19,Male,Primary,Nairobi,Unemployed,9,39,11,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+26,Male,Diploma,Eldoret,Employed,1,42,18,Resource_Constraints,I can't afford the transportation costs for interviews,Business incubation
+18,Male,Diploma,Machakos,Self-employed,5,1,8,Market_Mismatch,My Diploma qualification doesn't match what employers want,Industry transition program
+29,Male,Secondary,Mombasa,Unemployed,0,48,26,Market_Mismatch,My skills are not valued in the current job market,Industry transition program
+26,Female,Masters,Kisumu,Unpaid work,12,36,23,Market_Mismatch,The industry I trained for is declining in Kenya,Skill conversion training
+34,Female,Diploma,Machakos,Unemployed,1,24,35,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+30,Female,Diploma,Kakamega,Employed,6,29,18,Skills_Gap,My current skills are outdated for the modern job market in Kakamega,Digital skills bootcamp
+27,Male,Bachelor,Nakuru,Unemployed,4,11,0,Opportunity_Shortage,Companies aren't hiring in my field right now,Entrepreneurship support
+26,Female,PhD,Kisumu,Employed,10,25,23,Opportunity_Shortage,There are very few job openings in Kisumu,Gig economy onboarding
+29,Female,Bachelor,Nakuru,Unemployed,6,1,18,Geographic_Barrier,Remote work options are limited in my field,Satellite office placement
+18,Female,Diploma,Kakamega,Self-employed,1,23,32,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+33,Female,Diploma,Nairobi,Unemployed,9,8,23,Geographic_Barrier,Jobs in my field are only available far from where I live,Satellite office placement
+32,Male,Secondary,Eldoret,Unemployed,4,44,23,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+18,Female,Bachelor,Mombasa,Employed,13,18,0,Market_Mismatch,The industry I trained for is declining in Kenya,Industry transition program
+27,Male,Secondary,Kisumu,Student,5,10,31,Geographic_Barrier,There's an urban-rural divide in job availability,Relocation support
+22,Male,Diploma,Kisumu,Unemployed,12,26,4,Market_Mismatch,There's a disconnect between my education and available jobs,Industry transition program
+18,Female,Bachelor,Kakamega,Employed,10,31,34,Resource_Constraints,I need financial support to relocate where jobs are available,Transport subsidy
+31,Male,Bachelor,Kisumu,Unemployed,13,23,6,Market_Mismatch,There's a disconnect between my education and available jobs,Career redirection counseling
+31,Female,Primary,Kisumu,Employed,12,43,3,Skills_Gap,Companies want experience with technologies I haven't learned,Apprenticeship placement
+30,Male,Secondary,Nakuru,Self-employed,3,3,20,Resource_Constraints,The cost of living while job hunting is too high,Transport subsidy
+23,Male,Primary,Kakamega,Employed,4,5,8,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+30,Female,Primary,Kakamega,Unemployed,7,8,3,Skills_Gap,My current skills are outdated for the modern job market in Kakamega,Technical training program
+31,Female,Diploma,Nakuru,Unemployed,6,44,4,Market_Mismatch,My skills are not valued in the current job market,Skill conversion training
+33,Female,Bachelor,Mombasa,Unemployed,14,20,7,Market_Mismatch,There's a disconnect between my education and available jobs,Career redirection counseling
+19,Male,Secondary,Eldoret,Unemployed,7,12,15,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+24,Female,Masters,Eldoret,Unpaid work,2,3,19,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+23,Male,Bachelor,Nakuru,Employed,5,20,0,Opportunity_Shortage,Companies aren't hiring in my field right now,Gig economy onboarding
+30,Male,Bachelor,Nairobi,Employed,6,10,12,Geographic_Barrier,There's an urban-rural divide in job availability,Relocation support
+24,Female,Bachelor,Kisumu,Unemployed,9,15,16,Skills_Gap,Companies want experience with technologies I haven't learned,Apprenticeship placement
+26,Female,Secondary,Kakamega,Unemployed,1,44,15,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+26,Female,Bachelor,Nairobi,Self-employed,2,32,11,Resource_Constraints,I lack resources to continue searching for jobs,Job search stipend
+18,Male,Diploma,Machakos,Employed,7,41,11,Geographic_Barrier,Remote work options are limited in my field,Satellite office placement
+31,Female,Secondary,Eldoret,Unemployed,4,14,23,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+25,Male,Secondary,Mombasa,Unemployed,12,35,19,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+19,Female,Secondary,Kisumu,Student,9,47,32,Skills_Gap,Companies want experience with technologies I haven't learned,Apprenticeship placement
+26,Female,Secondary,Machakos,Self-employed,7,14,22,Market_Mismatch,My skills are not valued in the current job market,Career redirection counseling
+29,Female,Masters,Mombasa,Employed,2,35,28,Market_Mismatch,My Masters qualification doesn't match what employers want,Alternative career path mentorship
+34,Male,Secondary,Kakamega,Unemployed,14,41,11,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+19,Male,Bachelor,Mombasa,Self-employed,6,32,26,Resource_Constraints,Starting my own business requires capital I don't have,Job search stipend
+32,Female,Secondary,Kakamega,Employed,14,38,6,Skills_Gap,Companies want experience with technologies I haven't learned,Apprenticeship placement
+22,Male,Diploma,Nyeri,Self-employed,11,9,10,Resource_Constraints,I lack resources to continue searching for jobs,Startup capital support
+18,Female,Secondary,Machakos,Student,5,25,22,Market_Mismatch,My field of study doesn't have many opportunities locally,Skill conversion training
+30,Male,Diploma,Machakos,Unemployed,13,16,16,Geographic_Barrier,Remote work options are limited in my field,Relocation support
+23,Female,Primary,Machakos,Unemployed,11,33,29,Opportunity_Shortage,There are very few job openings in Machakos,Job creation initiative
+31,Male,Secondary,Machakos,Employed,12,37,0,Resource_Constraints,Starting my own business requires capital I don't have,Transport subsidy
+32,Male,Secondary,Mombasa,Self-employed,2,30,23,Resource_Constraints,Starting my own business requires capital I don't have,Startup capital support
+28,Male,Masters,Nairobi,Unemployed,6,35,19,Market_Mismatch,The industry I trained for is declining in Kenya,Skill conversion training
+34,Female,Primary,Eldoret,Employed,14,18,24,Market_Mismatch,My skills are not valued in the current job market,Industry transition program
+35,Male,Masters,Kisumu,Unemployed,11,37,30,Market_Mismatch,The industry I trained for is declining in Kenya,Industry transition program
+25,Male,PhD,Nairobi,Employed,3,42,7,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+25,Female,Bachelor,Eldoret,Unemployed,9,44,30,Resource_Constraints,I can't afford the transportation costs for interviews,Transport subsidy
+27,Female,Diploma,Kakamega,Student,12,34,12,Opportunity_Shortage,Companies aren't hiring in my field right now,Gig economy onboarding
+20,Male,Primary,Mombasa,Unemployed,3,10,28,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+33,Male,Masters,Mombasa,Unemployed,0,42,20,Market_Mismatch,My field of study doesn't have many opportunities locally,Alternative career path mentorship
+21,Male,Secondary,Kakamega,Self-employed,11,36,3,Resource_Constraints,I need financial support to relocate where jobs are available,Business incubation
+33,Male,Secondary,Kakamega,Employed,13,13,16,Market_Mismatch,My skills are not valued in the current job market,Career redirection counseling
+27,Female,Bachelor,Kisumu,Unpaid work,11,24,4,Resource_Constraints,The cost of living while job hunting is too high,Startup capital support
+30,Female,Primary,Eldoret,Unemployed,3,33,14,Resource_Constraints,I can't afford the transportation costs for interviews,Startup capital support
+19,Male,Diploma,Nairobi,Unemployed,2,33,8,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+30,Male,Primary,Nairobi,Self-employed,0,22,0,Resource_Constraints,The cost of living while job hunting is too high,Job search stipend
+19,Male,Diploma,Mombasa,Employed,12,32,22,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+26,Female,Bachelor,Kisumu,Employed,6,34,34,Opportunity_Shortage,The job market in Kisumu is saturated with job seekers,Gig economy onboarding
+19,Male,Primary,Kisumu,Unemployed,1,7,27,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+35,Female,Primary,Eldoret,Student,0,16,17,Skills_Gap,My current skills are outdated for the modern job market in Eldoret,Industry certifications
+30,Male,Diploma,Nairobi,Unemployed,7,46,8,Resource_Constraints,The cost of living while job hunting is too high,Job search stipend
+18,Male,Bachelor,Mombasa,Unemployed,5,25,23,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+32,Female,Secondary,Nairobi,Unemployed,13,37,28,Market_Mismatch,My Secondary qualification doesn't match what employers want,Career redirection counseling
+31,Male,Bachelor,Eldoret,Employed,9,49,17,Market_Mismatch,My field of study doesn't have many opportunities locally,Career redirection counseling
+23,Female,Primary,Nyeri,Employed,7,8,33,Opportunity_Shortage,Too many graduates are competing for too few positions,Public works program
+23,Male,Diploma,Nairobi,Employed,9,5,27,Market_Mismatch,My skills are not valued in the current job market,Alternative career path mentorship
+21,Male,Diploma,Kisumu,Employed,4,31,20,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+31,Male,Masters,Eldoret,Employed,13,3,27,Geographic_Barrier,Remote work options are limited in my field,Remote work opportunity
+27,Female,Diploma,Eldoret,Student,14,12,11,Opportunity_Shortage,The job market in Eldoret is saturated with job seekers,Job creation initiative
+19,Female,Bachelor,Kakamega,Employed,0,25,25,Market_Mismatch,There's a disconnect between my education and available jobs,Alternative career path mentorship
+34,Female,Secondary,Kakamega,Employed,5,24,31,Resource_Constraints,Starting my own business requires capital I don't have,Startup capital support
+25,Male,Secondary,Machakos,Employed,4,26,5,Opportunity_Shortage,Companies aren't hiring in my field right now,Public works program
+26,Male,Diploma,Mombasa,Employed,9,28,9,Geographic_Barrier,Living in Mombasa limits my access to job opportunities,Relocation support
+28,Female,Secondary,Kakamega,Unemployed,1,23,18,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+35,Female,Masters,Nairobi,Unemployed,0,16,16,Market_Mismatch,My skills are not valued in the current job market,Alternative career path mentorship
+29,Male,Diploma,Machakos,Employed,2,31,27,Geographic_Barrier,There's an urban-rural divide in job availability,Remote work opportunity
+32,Male,Diploma,Nakuru,Employed,2,25,15,Resource_Constraints,I can't afford the transportation costs for interviews,Transport subsidy
+25,Female,Bachelor,Kakamega,Employed,11,0,5,Opportunity_Shortage,Companies aren't hiring in my field right now,Public works program
+22,Male,Diploma,Eldoret,Self-employed,14,18,4,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+26,Male,Masters,Kakamega,Employed,13,25,17,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+34,Male,Secondary,Kakamega,Self-employed,1,45,10,Resource_Constraints,Starting my own business requires capital I don't have,Startup capital support
+30,Female,Bachelor,Machakos,Employed,6,18,24,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+32,Male,Secondary,Machakos,Employed,3,42,1,Resource_Constraints,Starting my own business requires capital I don't have,Startup capital support
+18,Female,Secondary,Nyeri,Employed,8,16,5,Skills_Gap,My current skills are outdated for the modern job market in Nyeri,Technical training program
+32,Female,Secondary,Nakuru,Self-employed,4,43,22,Geographic_Barrier,Remote work options are limited in my field,Satellite office placement
+20,Male,Secondary,Nairobi,Unemployed,4,13,25,Skills_Gap,I lack the technical skills needed for jobs in my field,Apprenticeship placement
+21,Male,Secondary,Kisumu,Self-employed,1,18,9,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+25,Male,Bachelor,Mombasa,Unemployed,1,33,28,Opportunity_Shortage,The job market in Mombasa is saturated with job seekers,Gig economy onboarding
+28,Female,Diploma,Nyeri,Unpaid work,4,23,28,Market_Mismatch,There's a disconnect between my education and available jobs,Skill conversion training
+18,Female,Bachelor,Machakos,Unpaid work,2,7,17,Opportunity_Shortage,There are very few job openings in Machakos,Entrepreneurship support
+28,Female,Secondary,Kisumu,Unemployed,14,15,20,Resource_Constraints,I can't afford the transportation costs for interviews,Startup capital support
+20,Female,Bachelor,Eldoret,Unemployed,11,27,13,Opportunity_Shortage,Companies aren't hiring in my field right now,Entrepreneurship support
+20,Female,Masters,Eldoret,Unemployed,0,25,29,Resource_Constraints,Starting my own business requires capital I don't have,Startup capital support
+33,Male,Secondary,Nairobi,Employed,5,21,10,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+25,Female,Primary,Eldoret,Unemployed,11,43,5,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+28,Male,Secondary,Machakos,Self-employed,11,33,23,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+27,Male,Bachelor,Kisumu,Unpaid work,1,24,24,Resource_Constraints,I lack resources to continue searching for jobs,Transport subsidy
+29,Male,Secondary,Machakos,Employed,1,6,3,Geographic_Barrier,There's an urban-rural divide in job availability,Relocation support
+22,Male,Secondary,Nakuru,Unemployed,6,21,10,Resource_Constraints,I lack resources to continue searching for jobs,Startup capital support
+23,Female,Bachelor,Kakamega,Employed,10,44,28,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+28,Male,Primary,Kisumu,Unemployed,9,47,14,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+26,Male,Bachelor,Mombasa,Unemployed,11,34,21,Opportunity_Shortage,Too many graduates are competing for too few positions,Public works program
+19,Male,Bachelor,Mombasa,Employed,6,19,26,Resource_Constraints,I lack resources to continue searching for jobs,Business incubation
+18,Female,Diploma,Kakamega,Employed,4,22,26,Geographic_Barrier,There's an urban-rural divide in job availability,Satellite office placement
+22,Male,Secondary,Eldoret,Unemployed,14,42,35,Resource_Constraints,I lack resources to continue searching for jobs,Job search stipend
+18,Female,Secondary,Nairobi,Employed,12,13,24,Opportunity_Shortage,Companies aren't hiring in my field right now,Public works program
+28,Female,Primary,Machakos,Unemployed,7,30,11,Skills_Gap,Companies want experience with technologies I haven't learned,Technical training program
+25,Male,Secondary,Nairobi,Unemployed,5,9,20,Geographic_Barrier,Jobs in my field are only available far from where I live,Satellite office placement
+30,Male,Secondary,Kisumu,Self-employed,13,0,8,Resource_Constraints,The cost of living while job hunting is too high,Startup capital support
+19,Female,Masters,Kakamega,Employed,7,25,14,Geographic_Barrier,Jobs in my field are only available far from where I live,Commuter subsidy
+27,Male,Diploma,Nyeri,Student,12,16,6,Skills_Gap,My current skills are outdated for the modern job market in Nyeri,Digital skills bootcamp
+29,Male,Bachelor,Mombasa,Unemployed,5,2,7,Market_Mismatch,My Bachelor qualification doesn't match what employers want,Career redirection counseling
+19,Male,Masters,Machakos,Unemployed,11,27,16,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+21,Male,Diploma,Kakamega,Unemployed,13,39,3,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Job creation initiative
+30,Female,Secondary,Nyeri,Unemployed,5,17,6,Geographic_Barrier,Jobs in my field are only available far from where I live,Commuter subsidy
+32,Male,Diploma,Eldoret,Unemployed,3,38,34,Opportunity_Shortage,There are very few job openings in Eldoret,Entrepreneurship support
+21,Male,Bachelor,Mombasa,Self-employed,7,5,3,Market_Mismatch,My Bachelor qualification doesn't match what employers want,Alternative career path mentorship
+34,Male,Secondary,Kakamega,Self-employed,7,30,15,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+22,Male,Bachelor,Machakos,Unemployed,14,48,22,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+25,Female,Secondary,Kakamega,Unemployed,0,30,31,Opportunity_Shortage,There are very few job openings in Kakamega,Job creation initiative
+30,Female,Bachelor,Nakuru,Unemployed,4,13,26,Opportunity_Shortage,The job market in Nakuru is saturated with job seekers,Public works program
+23,Male,Bachelor,Nyeri,Unemployed,4,6,17,Resource_Constraints,Starting my own business requires capital I don't have,Transport subsidy
+21,Male,Primary,Kakamega,Employed,1,28,20,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+34,Male,Primary,Nairobi,Employed,1,26,5,Resource_Constraints,Starting my own business requires capital I don't have,Startup capital support
+23,Male,Diploma,Nakuru,Employed,14,4,19,Opportunity_Shortage,Companies aren't hiring in my field right now,Entrepreneurship support
+30,Male,Bachelor,Eldoret,Self-employed,12,34,30,Geographic_Barrier,Jobs in my field are only available far from where I live,Commuter subsidy
+24,Female,Secondary,Nakuru,Unemployed,5,47,33,Skills_Gap,My current skills are outdated for the modern job market in Nakuru,Technical training program
+35,Male,Diploma,Nyeri,Unemployed,11,17,2,Market_Mismatch,The industry I trained for is declining in Kenya,Skill conversion training
+18,Female,PhD,Kakamega,Self-employed,8,20,11,Geographic_Barrier,There's an urban-rural divide in job availability,Satellite office placement
+34,Male,Bachelor,Nyeri,Unemployed,6,47,26,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+27,Female,Diploma,Machakos,Unemployed,12,7,30,Market_Mismatch,My field of study doesn't have many opportunities locally,Alternative career path mentorship
+34,Male,Secondary,Machakos,Student,7,46,31,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Gig economy onboarding
+29,Female,Secondary,Mombasa,Employed,14,30,29,Resource_Constraints,I need financial support to relocate where jobs are available,Transport subsidy
+35,Male,Secondary,Machakos,Unpaid work,10,24,0,Market_Mismatch,There's a disconnect between my education and available jobs,Industry transition program
+20,Female,Primary,Machakos,Unemployed,7,21,16,Opportunity_Shortage,There are very few job openings in Machakos,Gig economy onboarding
+34,Male,Secondary,Mombasa,Unemployed,11,3,29,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Gig economy onboarding
+35,Male,Bachelor,Nyeri,Unemployed,14,23,16,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+25,Female,Secondary,Eldoret,Employed,14,11,18,Geographic_Barrier,Jobs in my field are only available far from where I live,Commuter subsidy
+24,Male,Bachelor,Nyeri,Self-employed,1,2,5,Skills_Gap,My current skills are outdated for the modern job market in Nyeri,Technical training program
+18,Male,Secondary,Machakos,Employed,8,19,5,Geographic_Barrier,Jobs in my field are only available far from where I live,Satellite office placement
+24,Female,Secondary,Eldoret,Employed,6,18,5,Opportunity_Shortage,Too many graduates are competing for too few positions,Job creation initiative
+35,Male,Bachelor,Nyeri,Student,9,46,17,Resource_Constraints,I need financial support to relocate where jobs are available,Business incubation
+30,Male,Bachelor,Mombasa,Employed,4,5,21,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+34,Female,Secondary,Nairobi,Unemployed,10,49,13,Opportunity_Shortage,Companies aren't hiring in my field right now,Entrepreneurship support
+31,Female,Diploma,Kisumu,Unemployed,4,24,31,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+22,Male,Diploma,Kakamega,Unemployed,5,13,23,Opportunity_Shortage,There are very few job openings in Kakamega,Job creation initiative
+31,Female,Secondary,Nyeri,Employed,11,22,12,Opportunity_Shortage,The job market in Nyeri is saturated with job seekers,Job creation initiative
+18,Female,Bachelor,Mombasa,Unemployed,5,16,34,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+26,Female,Secondary,Nairobi,Unemployed,2,32,29,Skills_Gap,I lack the technical skills needed for jobs in my field,Industry certifications
+20,Male,Bachelor,Machakos,Employed,3,7,0,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+29,Female,Bachelor,Kisumu,Self-employed,12,27,23,Skills_Gap,My current skills are outdated for the modern job market in Kisumu,Apprenticeship placement
+18,Male,Secondary,Nyeri,Unemployed,2,16,20,Skills_Gap,I lack the technical skills needed for jobs in my field,Apprenticeship placement
+24,Female,Bachelor,Mombasa,Unemployed,1,23,28,Market_Mismatch,There's a disconnect between my education and available jobs,Industry transition program
+32,Female,Masters,Nairobi,Self-employed,5,43,33,Market_Mismatch,My Masters qualification doesn't match what employers want,Alternative career path mentorship
+24,Female,Primary,Kakamega,Unemployed,6,28,21,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+32,Female,Secondary,Eldoret,Unemployed,3,35,23,Opportunity_Shortage,The job market in Eldoret is saturated with job seekers,Gig economy onboarding
+33,Female,Masters,Kisumu,Unemployed,11,2,31,Market_Mismatch,My skills are not valued in the current job market,Career redirection counseling
+24,Male,Secondary,Kakamega,Unpaid work,8,43,7,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+19,Male,Diploma,Nairobi,Employed,5,14,4,Resource_Constraints,I can't afford the transportation costs for interviews,Business incubation
+18,Female,Secondary,Nyeri,Self-employed,7,34,34,Geographic_Barrier,Remote work options are limited in my field,Commuter subsidy
+26,Female,Primary,Nyeri,Employed,6,29,28,Market_Mismatch,My field of study doesn't have many opportunities locally,Career redirection counseling
+31,Female,Bachelor,Mombasa,Unemployed,8,18,9,Opportunity_Shortage,There are very few job openings in Mombasa,Job creation initiative
+22,Male,Primary,Nyeri,Unemployed,5,11,34,Opportunity_Shortage,Companies aren't hiring in my field right now,Gig economy onboarding
+30,Female,Diploma,Kakamega,Employed,6,11,31,Geographic_Barrier,There's an urban-rural divide in job availability,Commuter subsidy
+20,Male,Bachelor,Mombasa,Unemployed,2,3,27,Geographic_Barrier,Jobs in my field are only available far from where I live,Relocation support
+29,Male,Secondary,Eldoret,Unemployed,11,19,1,Opportunity_Shortage,Companies aren't hiring in my field right now,Job creation initiative
+35,Female,Secondary,Machakos,Unemployed,3,49,15,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+34,Female,Secondary,Nairobi,Unemployed,11,38,6,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+22,Female,Primary,Nyeri,Unemployed,2,23,17,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+29,Female,Secondary,Nairobi,Self-employed,1,21,10,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+22,Male,Diploma,Eldoret,Employed,12,2,29,Geographic_Barrier,Living in Eldoret limits my access to job opportunities,Remote work opportunity
+32,Male,Diploma,Kakamega,Unemployed,12,41,24,Skills_Gap,My current skills are outdated for the modern job market in Kakamega,Digital skills bootcamp
+29,Male,Bachelor,Nairobi,Self-employed,12,31,5,Geographic_Barrier,I can't relocate to where the jobs are available,Commuter subsidy
+23,Female,Primary,Nairobi,Self-employed,9,48,16,Geographic_Barrier,Remote work options are limited in my field,Commuter subsidy
+35,Male,Primary,Kisumu,Employed,4,43,24,Skills_Gap,My current skills are outdated for the modern job market in Kisumu,Apprenticeship placement
+23,Female,Diploma,Kakamega,Unemployed,10,38,30,Opportunity_Shortage,Companies aren't hiring in my field right now,Job creation initiative
+28,Male,Bachelor,Kisumu,Unemployed,0,4,10,Market_Mismatch,My skills are not valued in the current job market,Industry transition program
+29,Male,Primary,Mombasa,Employed,2,17,28,Resource_Constraints,The cost of living while job hunting is too high,Business incubation
+32,Female,Secondary,Kisumu,Unemployed,0,22,28,Skills_Gap,My current skills are outdated for the modern job market in Kisumu,Industry certifications
+22,Male,Secondary,Eldoret,Unemployed,6,39,20,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+30,Female,Secondary,Nakuru,Unemployed,12,23,5,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+24,Male,Bachelor,Eldoret,Employed,11,36,33,Market_Mismatch,The industry I trained for is declining in Kenya,Career redirection counseling
+29,Male,Primary,Kisumu,Self-employed,13,19,31,Skills_Gap,I lack the technical skills needed for jobs in my field,Digital skills bootcamp
+22,Female,Masters,Kakamega,Self-employed,9,25,9,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+33,Male,Secondary,Kisumu,Self-employed,13,11,10,Market_Mismatch,My skills are not valued in the current job market,Alternative career path mentorship
+23,Female,Diploma,Kisumu,Student,11,13,13,Resource_Constraints,Starting my own business requires capital I don't have,Transport subsidy
+28,Male,Secondary,Eldoret,Employed,8,14,23,Geographic_Barrier,There's an urban-rural divide in job availability,Commuter subsidy
+24,Male,Bachelor,Machakos,Unemployed,13,30,9,Resource_Constraints,I need financial support to relocate where jobs are available,Job search stipend
+33,Female,Bachelor,Nyeri,Unemployed,13,33,21,Skills_Gap,My current skills are outdated for the modern job market in Nyeri,Technical training program
+34,Male,Masters,Mombasa,Unemployed,12,34,33,Market_Mismatch,My skills are not valued in the current job market,Career redirection counseling
+31,Female,Diploma,Kakamega,Student,2,14,26,Resource_Constraints,I lack resources to continue searching for jobs,Job search stipend
+19,Female,Bachelor,Mombasa,Unemployed,8,34,14,Skills_Gap,I lack the technical skills needed for jobs in my field,Apprenticeship placement
+22,Male,Diploma,Mombasa,Unemployed,8,48,5,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+20,Female,Primary,Nyeri,Self-employed,11,30,18,Opportunity_Shortage,Too many graduates are competing for too few positions,Job creation initiative
+34,Male,Secondary,Mombasa,Self-employed,10,45,16,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+31,Female,Diploma,Kakamega,Employed,8,6,5,Market_Mismatch,My skills are not valued in the current job market,Skill conversion training
+32,Male,Primary,Nakuru,Employed,0,6,20,Geographic_Barrier,Living in Nakuru limits my access to job opportunities,Satellite office placement
+25,Male,Secondary,Kakamega,Student,10,37,0,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+26,Male,Secondary,Nakuru,Unemployed,0,25,24,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+32,Female,Secondary,Nyeri,Unemployed,12,11,21,Geographic_Barrier,I can't relocate to where the jobs are available,Satellite office placement
+19,Female,Bachelor,Machakos,Unemployed,14,20,7,Opportunity_Shortage,Too many graduates are competing for too few positions,Public works program
+32,Male,Primary,Eldoret,Unemployed,8,27,17,Opportunity_Shortage,The job market in Eldoret is saturated with job seekers,Job creation initiative
+18,Male,Bachelor,Kisumu,Self-employed,8,47,14,Opportunity_Shortage,Too many graduates are competing for too few positions,Public works program
+22,Female,Secondary,Kisumu,Unemployed,6,18,28,Skills_Gap,My current skills are outdated for the modern job market in Kisumu,Technical training program
+24,Male,Primary,Machakos,Unemployed,1,36,18,Opportunity_Shortage,There are very few job openings in Machakos,Gig economy onboarding
+32,Female,Diploma,Mombasa,Self-employed,2,20,3,Market_Mismatch,There's a disconnect between my education and available jobs,Industry transition program
+22,Male,Secondary,Nyeri,Unemployed,2,29,35,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Gig economy onboarding
+33,Female,Diploma,Mombasa,Unemployed,4,34,7,Market_Mismatch,My Diploma qualification doesn't match what employers want,Career redirection counseling
+22,Male,Primary,Eldoret,Unemployed,11,36,34,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+28,Female,Masters,Kisumu,Employed,0,38,19,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+35,Male,Secondary,Nairobi,Unemployed,12,47,22,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+34,Female,Secondary,Kakamega,Unpaid work,9,40,32,Skills_Gap,My current skills are outdated for the modern job market in Kakamega,Industry certifications
+33,Male,Secondary,Kakamega,Unemployed,5,21,19,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+22,Male,Bachelor,Mombasa,Employed,8,36,30,Opportunity_Shortage,Companies aren't hiring in my field right now,Public works program
+22,Male,Secondary,Machakos,Unemployed,5,4,5,Resource_Constraints,The cost of living while job hunting is too high,Job search stipend
+25,Female,Secondary,Eldoret,Unemployed,5,32,30,Resource_Constraints,The cost of living while job hunting is too high,Transport subsidy
+22,Female,Primary,Kisumu,Employed,2,33,23,Opportunity_Shortage,There are very few job openings in Kisumu,Public works program
+26,Female,Secondary,Machakos,Employed,14,29,23,Opportunity_Shortage,There are very few job openings in Machakos,Job creation initiative
+25,Male,Diploma,Nakuru,Employed,13,13,19,Market_Mismatch,My field of study doesn't have many opportunities locally,Industry transition program
+19,Male,Primary,Nairobi,Self-employed,11,22,0,Resource_Constraints,Starting my own business requires capital I don't have,Job search stipend
+24,Male,Bachelor,Eldoret,Unemployed,5,18,19,Opportunity_Shortage,Companies aren't hiring in my field right now,Public works program
+32,Female,Bachelor,Kakamega,Student,1,2,31,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Gig economy onboarding
+23,Male,Secondary,Kisumu,Unemployed,0,39,29,Resource_Constraints,I lack resources to continue searching for jobs,Startup capital support
+21,Female,Bachelor,Kakamega,Unemployed,8,4,34,Skills_Gap,My current skills are outdated for the modern job market in Kakamega,Industry certifications
+18,Female,Primary,Kakamega,Student,12,18,12,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+27,Female,Bachelor,Eldoret,Unemployed,3,23,13,Market_Mismatch,My skills are not valued in the current job market,Alternative career path mentorship
+31,Male,Secondary,Machakos,Self-employed,2,10,32,Skills_Gap,My current skills are outdated for the modern job market in Machakos,Digital skills bootcamp
+20,Female,Secondary,Machakos,Unemployed,10,32,14,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+29,Male,Secondary,Nyeri,Employed,7,25,24,Skills_Gap,Companies want experience with technologies I haven't learned,Technical training program
+29,Female,Masters,Nairobi,Unemployed,9,29,18,Opportunity_Shortage,Companies aren't hiring in my field right now,Entrepreneurship support
+32,Male,Diploma,Kisumu,Employed,1,31,20,Skills_Gap,My current skills are outdated for the modern job market in Kisumu,Apprenticeship placement
+21,Male,Masters,Nyeri,Employed,9,5,5,Resource_Constraints,I lack resources to continue searching for jobs,Business incubation
+33,Male,Diploma,Nairobi,Unemployed,9,27,32,Skills_Gap,Companies want experience with technologies I haven't learned,Apprenticeship placement
+26,Male,Primary,Nakuru,Student,10,43,27,Resource_Constraints,The cost of living while job hunting is too high,Business incubation
+26,Male,Bachelor,Mombasa,Unpaid work,1,22,14,Skills_Gap,Companies want experience with technologies I haven't learned,Technical training program
+18,Female,Diploma,Nyeri,Self-employed,14,43,12,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+25,Male,Secondary,Nairobi,Unemployed,12,2,22,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+27,Female,Primary,Eldoret,Self-employed,2,31,10,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+21,Female,Bachelor,Kakamega,Self-employed,14,49,1,Market_Mismatch,My Bachelor qualification doesn't match what employers want,Alternative career path mentorship
+23,Female,PhD,Nakuru,Unemployed,0,45,13,Resource_Constraints,Starting my own business requires capital I don't have,Business incubation
+32,Female,Secondary,Kisumu,Unemployed,7,41,29,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+21,Male,Secondary,Nakuru,Employed,10,11,1,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+24,Male,Primary,Machakos,Unemployed,6,35,34,Geographic_Barrier,Remote work options are limited in my field,Relocation support
+30,Male,Diploma,Nyeri,Student,9,28,5,Market_Mismatch,The industry I trained for is declining in Kenya,Industry transition program
+32,Male,Secondary,Nakuru,Unemployed,3,43,16,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Gig economy onboarding
+29,Male,Primary,Eldoret,Employed,11,23,13,Resource_Constraints,Starting my own business requires capital I don't have,Startup capital support
+31,Female,Secondary,Eldoret,Unemployed,7,5,17,Opportunity_Shortage,Companies aren't hiring in my field right now,Job creation initiative
+31,Female,Secondary,Kakamega,Unemployed,4,37,11,Geographic_Barrier,I can't relocate to where the jobs are available,Relocation support
+31,Male,Bachelor,Nyeri,Self-employed,10,30,21,Resource_Constraints,I need financial support to relocate where jobs are available,Transport subsidy
+33,Male,Secondary,Kisumu,Unpaid work,14,44,22,Skills_Gap,My current skills are outdated for the modern job market in Kisumu,Digital skills bootcamp
+22,Female,Masters,Nakuru,Unemployed,14,28,9,Market_Mismatch,There's a disconnect between my education and available jobs,Industry transition program
+21,Female,Diploma,Nairobi,Unemployed,6,32,8,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+35,Female,Bachelor,Mombasa,Unemployed,5,17,19,Opportunity_Shortage,There are very few job openings in Mombasa,Public works program
+26,Male,Secondary,Machakos,Unpaid work,5,15,27,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+31,Female,Secondary,Mombasa,Unemployed,2,46,29,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+31,Female,Secondary,Mombasa,Student,14,17,17,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+21,Female,Bachelor,Nairobi,Self-employed,13,19,9,Resource_Constraints,I lack resources to continue searching for jobs,Transport subsidy
+18,Female,Diploma,Nakuru,Unemployed,4,27,5,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Public works program
+29,Female,Secondary,Nyeri,Unemployed,10,31,31,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+21,Male,Secondary,Mombasa,Unemployed,2,32,6,Skills_Gap,I lack the technical skills needed for jobs in my field,Digital skills bootcamp
+26,Female,Secondary,Nyeri,Employed,8,25,24,Opportunity_Shortage,The job market in Nyeri is saturated with job seekers,Entrepreneurship support
+27,Male,Primary,Kakamega,Unemployed,6,42,13,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+24,Female,Diploma,Eldoret,Student,6,28,21,Geographic_Barrier,I can't relocate to where the jobs are available,Relocation support
+30,Male,Secondary,Eldoret,Employed,8,39,32,Market_Mismatch,My Secondary qualification doesn't match what employers want,Industry transition program
+18,Female,Bachelor,Eldoret,Student,11,48,33,Geographic_Barrier,Jobs in my field are only available far from where I live,Relocation support
+32,Female,Secondary,Machakos,Unemployed,4,44,13,Opportunity_Shortage,The job market in Machakos is saturated with job seekers,Entrepreneurship support
+28,Female,Primary,Nairobi,Employed,7,5,15,Market_Mismatch,My field of study doesn't have many opportunities locally,Career redirection counseling
+19,Male,Diploma,Kakamega,Student,1,9,6,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+35,Female,Secondary,Nairobi,Employed,8,19,17,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+25,Female,PhD,Nakuru,Unpaid work,13,2,0,Geographic_Barrier,Jobs in my field are only available far from where I live,Remote work opportunity
+28,Male,Primary,Kakamega,Self-employed,5,2,30,Geographic_Barrier,Jobs in my field are only available far from where I live,Commuter subsidy
+20,Male,Primary,Kakamega,Employed,14,44,11,Skills_Gap,My current skills are outdated for the modern job market in Kakamega,Digital skills bootcamp
+32,Female,Bachelor,Nairobi,Unemployed,5,4,15,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+24,Male,Primary,Kakamega,Employed,7,13,30,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+28,Female,Primary,Machakos,Self-employed,12,7,28,Opportunity_Shortage,Companies aren't hiring in my field right now,Gig economy onboarding
+34,Male,Bachelor,Nairobi,Unemployed,6,8,5,Market_Mismatch,My skills are not valued in the current job market,Skill conversion training
+18,Female,PhD,Mombasa,Unemployed,5,6,1,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+23,Female,Secondary,Kisumu,Employed,14,9,31,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+32,Male,Secondary,Kisumu,Unemployed,11,37,5,Skills_Gap,I lack the technical skills needed for jobs in my field,Digital skills bootcamp
+24,Female,Secondary,Nyeri,Self-employed,10,29,35,Resource_Constraints,I lack resources to continue searching for jobs,Business incubation
+18,Male,Diploma,Nakuru,Self-employed,6,14,18,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+18,Male,Secondary,Nairobi,Self-employed,10,4,23,Opportunity_Shortage,There are very few job openings in Nairobi,Gig economy onboarding
+22,Male,Diploma,Eldoret,Unpaid work,9,13,9,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+22,Female,Secondary,Kisumu,Unemployed,3,40,6,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+25,Male,Diploma,Mombasa,Self-employed,3,43,14,Market_Mismatch,My skills are not valued in the current job market,Industry transition program
+32,Male,Secondary,Eldoret,Employed,9,1,27,Geographic_Barrier,Jobs in my field are only available far from where I live,Satellite office placement
+34,Male,Primary,Machakos,Unemployed,0,28,30,Skills_Gap,My current skills are outdated for the modern job market in Machakos,Apprenticeship placement
+22,Female,Bachelor,Machakos,Unemployed,13,31,14,Opportunity_Shortage,There are very few job openings in Machakos,Gig economy onboarding
+18,Male,Diploma,Kisumu,Self-employed,6,19,1,Resource_Constraints,Starting my own business requires capital I don't have,Business incubation
+30,Male,Secondary,Nyeri,Unemployed,1,19,12,Market_Mismatch,The industry I trained for is declining in Kenya,Industry transition program
+19,Male,Secondary,Eldoret,Unemployed,9,35,23,Skills_Gap,My current skills are outdated for the modern job market in Eldoret,Industry certifications
+25,Male,Diploma,Kisumu,Unemployed,7,11,18,Opportunity_Shortage,Too many graduates are competing for too few positions,Public works program
+18,Female,Bachelor,Nairobi,Employed,9,44,7,Resource_Constraints,I can't afford the transportation costs for interviews,Transport subsidy
+25,Female,Bachelor,Kisumu,Self-employed,7,24,24,Resource_Constraints,Starting my own business requires capital I don't have,Transport subsidy
+32,Female,Diploma,Nakuru,Self-employed,6,4,27,Resource_Constraints,I can't afford the transportation costs for interviews,Transport subsidy
+29,Female,Secondary,Nyeri,Unemployed,14,23,20,Geographic_Barrier,Remote work options are limited in my field,Satellite office placement
+19,Male,Diploma,Machakos,Unemployed,14,49,11,Market_Mismatch,My skills are not valued in the current job market,Industry transition program
+18,Female,Bachelor,Mombasa,Student,10,43,13,Opportunity_Shortage,The job market in Mombasa is saturated with job seekers,Entrepreneurship support
+22,Male,Bachelor,Machakos,Unemployed,14,18,2,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+25,Male,Secondary,Nyeri,Employed,0,0,6,Opportunity_Shortage,The job market in Nyeri is saturated with job seekers,Entrepreneurship support
+28,Male,Secondary,Machakos,Self-employed,1,15,30,Skills_Gap,My education didn't provide practical skills employers need,Digital skills bootcamp
+27,Female,Primary,Kakamega,Unemployed,10,14,12,Geographic_Barrier,Remote work options are limited in my field,Satellite office placement
+33,Male,Bachelor,Eldoret,Employed,0,2,9,Resource_Constraints,The cost of living while job hunting is too high,Startup capital support
+27,Female,Secondary,Kakamega,Student,12,5,34,Resource_Constraints,The cost of living while job hunting is too high,Transport subsidy
+24,Female,Diploma,Nakuru,Unemployed,14,29,26,Geographic_Barrier,There's an urban-rural divide in job availability,Satellite office placement
+20,Female,Primary,Eldoret,Employed,1,43,18,Geographic_Barrier,I can't relocate to where the jobs are available,Relocation support
+35,Male,Primary,Kakamega,Student,6,25,29,Opportunity_Shortage,The job market in Kakamega is saturated with job seekers,Public works program
+24,Female,Primary,Mombasa,Self-employed,5,17,20,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+21,Female,Bachelor,Mombasa,Unemployed,0,47,2,Market_Mismatch,My field of study doesn't have many opportunities locally,Career redirection counseling
+30,Male,Secondary,Nakuru,Employed,13,35,29,Skills_Gap,My current skills are outdated for the modern job market in Nakuru,Industry certifications
+32,Male,Bachelor,Nakuru,Unemployed,7,19,27,Opportunity_Shortage,The job market in Nakuru is saturated with job seekers,Gig economy onboarding
+26,Male,Secondary,Nakuru,Student,0,38,16,Resource_Constraints,I can't afford the transportation costs for interviews,Business incubation
+21,Female,Secondary,Mombasa,Employed,10,47,4,Resource_Constraints,I need financial support to relocate where jobs are available,Job search stipend
+27,Female,Masters,Nairobi,Employed,9,17,15,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+21,Male,Primary,Kakamega,Unemployed,8,22,23,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+21,Male,Bachelor,Nairobi,Student,10,33,0,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+19,Male,Diploma,Eldoret,Unemployed,12,49,9,Market_Mismatch,My field of study doesn't have many opportunities locally,Industry transition program
+21,Male,Diploma,Nyeri,Employed,10,27,26,Market_Mismatch,My Diploma qualification doesn't match what employers want,Industry transition program
+31,Female,Secondary,Nakuru,Unemployed,3,9,10,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+26,Male,Masters,Nakuru,Student,6,36,1,Skills_Gap,My education didn't provide practical skills employers need,Apprenticeship placement
+24,Male,Diploma,Nyeri,Employed,14,37,7,Resource_Constraints,Starting my own business requires capital I don't have,Business incubation
+35,Male,Bachelor,Kakamega,Employed,9,29,11,Skills_Gap,My current skills are outdated for the modern job market in Kakamega,Industry certifications
+28,Male,Diploma,Mombasa,Unemployed,4,38,35,Skills_Gap,I lack the technical skills needed for jobs in my field,Apprenticeship placement
+19,Female,Bachelor,Nyeri,Employed,3,41,29,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Job creation initiative
+28,Male,Diploma,Nyeri,Employed,11,41,5,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+25,Female,Secondary,Eldoret,Unemployed,7,41,2,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+26,Female,Diploma,Kakamega,Employed,12,30,34,Resource_Constraints,The cost of living while job hunting is too high,Business incubation
+31,Female,Secondary,Mombasa,Employed,2,15,35,Opportunity_Shortage,The job market in Mombasa is saturated with job seekers,Public works program
+31,Female,Bachelor,Machakos,Employed,12,18,13,Market_Mismatch,My skills are not valued in the current job market,Industry transition program
+21,Male,Masters,Kakamega,Student,4,43,11,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+19,Female,Bachelor,Kisumu,Unemployed,10,5,19,Opportunity_Shortage,There are very few job openings in Kisumu,Job creation initiative
+20,Male,Primary,Kakamega,Employed,14,32,29,Market_Mismatch,The industry I trained for is declining in Kenya,Career redirection counseling
+31,Male,Primary,Nakuru,Student,8,0,18,Market_Mismatch,My field of study doesn't have many opportunities locally,Skill conversion training
+25,Female,Secondary,Kakamega,Self-employed,1,5,8,Resource_Constraints,I lack resources to continue searching for jobs,Business incubation
+29,Male,Primary,Eldoret,Employed,9,42,22,Market_Mismatch,My skills are not valued in the current job market,Alternative career path mentorship
+27,Male,Primary,Nyeri,Unemployed,7,28,35,Opportunity_Shortage,There are very few job openings in Nyeri,Entrepreneurship support
+30,Female,Primary,Kakamega,Unemployed,2,35,7,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+19,Female,Primary,Nairobi,Employed,8,49,12,Resource_Constraints,I lack resources to continue searching for jobs,Startup capital support
+22,Female,Diploma,Nyeri,Self-employed,10,18,21,Geographic_Barrier,Remote work options are limited in my field,Satellite office placement
+20,Female,Secondary,Nakuru,Self-employed,0,35,34,Geographic_Barrier,Living in Nakuru limits my access to job opportunities,Relocation support
+31,Male,Secondary,Nakuru,Employed,10,49,11,Market_Mismatch,My skills are not valued in the current job market,Skill conversion training
+27,Male,Bachelor,Eldoret,Unemployed,4,11,0,Opportunity_Shortage,There are very few job openings in Eldoret,Entrepreneurship support
+18,Female,Primary,Nairobi,Unemployed,4,9,13,Skills_Gap,My current skills are outdated for the modern job market in Nairobi,Apprenticeship placement
+22,Female,Primary,Nairobi,Employed,5,44,13,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+29,Male,Secondary,Nairobi,Self-employed,4,32,18,Resource_Constraints,Starting my own business requires capital I don't have,Startup capital support
+25,Female,Primary,Nairobi,Unemployed,10,12,21,Resource_Constraints,I lack resources to continue searching for jobs,Business incubation
+25,Male,PhD,Nakuru,Employed,0,10,16,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Job creation initiative
+20,Male,Secondary,Nakuru,Student,3,49,33,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+34,Female,Diploma,Nairobi,Student,0,27,20,Resource_Constraints,I can't afford the transportation costs for interviews,Transport subsidy
+19,Female,Diploma,Machakos,Student,14,19,31,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+33,Female,Diploma,Machakos,Employed,11,18,8,Resource_Constraints,I lack resources to continue searching for jobs,Startup capital support
+23,Female,Primary,Mombasa,Student,1,31,12,Skills_Gap,My current skills are outdated for the modern job market in Mombasa,Apprenticeship placement
+34,Male,Primary,Kisumu,Unemployed,7,15,9,Skills_Gap,My current skills are outdated for the modern job market in Kisumu,Apprenticeship placement
+28,Male,Secondary,Machakos,Unpaid work,2,34,1,Market_Mismatch,My field of study doesn't have many opportunities locally,Skill conversion training
+26,Female,Bachelor,Nairobi,Employed,13,36,3,Market_Mismatch,My skills are not valued in the current job market,Career redirection counseling
+27,Female,Diploma,Mombasa,Employed,10,20,3,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+31,Female,Secondary,Mombasa,Unemployed,5,47,21,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+29,Female,Secondary,Nakuru,Employed,7,33,25,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+31,Female,Masters,Machakos,Employed,13,12,4,Geographic_Barrier,There's an urban-rural divide in job availability,Commuter subsidy
+21,Male,Bachelor,Nakuru,Unemployed,7,19,14,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+18,Female,Primary,Mombasa,Employed,10,6,10,Resource_Constraints,I need financial support to relocate where jobs are available,Transport subsidy
+24,Male,Diploma,Machakos,Self-employed,5,31,23,Skills_Gap,My current skills are outdated for the modern job market in Machakos,Digital skills bootcamp
+35,Male,Secondary,Nakuru,Unemployed,0,3,26,Skills_Gap,I need additional training to qualify for available positions,Digital skills bootcamp
+35,Female,Bachelor,Machakos,Employed,14,37,25,Resource_Constraints,The cost of living while job hunting is too high,Business incubation
+20,Female,Secondary,Nyeri,Employed,8,49,25,Geographic_Barrier,Jobs in my field are only available far from where I live,Remote work opportunity
+21,Male,Secondary,Kakamega,Employed,10,1,13,Opportunity_Shortage,The job market in Kakamega is saturated with job seekers,Job creation initiative
+22,Male,Secondary,Machakos,Unemployed,0,31,33,Skills_Gap,I lack the technical skills needed for jobs in my field,Technical training program
+34,Female,Bachelor,Kisumu,Self-employed,6,46,5,Opportunity_Shortage,Companies aren't hiring in my field right now,Public works program
+22,Female,Diploma,Nakuru,Student,1,18,12,Geographic_Barrier,I can't relocate to where the jobs are available,Commuter subsidy
+27,Male,Secondary,Nakuru,Unemployed,6,38,27,Skills_Gap,My current skills are outdated for the modern job market in Nakuru,Apprenticeship placement
+23,Male,Bachelor,Nyeri,Unemployed,2,0,4,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+28,Female,Diploma,Nakuru,Employed,10,1,17,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+21,Male,Secondary,Nakuru,Unemployed,11,45,22,Resource_Constraints,I can't afford the transportation costs for interviews,Job search stipend
+27,Male,Diploma,Nyeri,Employed,13,26,24,Resource_Constraints,Starting my own business requires capital I don't have,Transport subsidy
+35,Female,Diploma,Eldoret,Unemployed,12,49,22,Opportunity_Shortage,The job market in Eldoret is saturated with job seekers,Entrepreneurship support
+29,Male,Bachelor,Mombasa,Employed,14,22,23,Market_Mismatch,There's a disconnect between my education and available jobs,Industry transition program
+35,Female,Secondary,Kakamega,Student,8,17,16,Opportunity_Shortage,There are very few job openings in Kakamega,Gig economy onboarding
+29,Male,Secondary,Machakos,Unpaid work,0,45,33,Resource_Constraints,I lack resources to continue searching for jobs,Transport subsidy
+33,Male,Bachelor,Nyeri,Unemployed,12,18,19,Opportunity_Shortage,The job market in Nyeri is saturated with job seekers,Entrepreneurship support
+23,Male,Bachelor,Kisumu,Unemployed,7,17,22,Opportunity_Shortage,There are very few job openings in Kisumu,Gig economy onboarding
+19,Male,Secondary,Nyeri,Unemployed,10,30,14,Skills_Gap,My education didn't provide practical skills employers need,Industry certifications
+33,Male,Secondary,Nakuru,Student,11,34,16,Resource_Constraints,The cost of living while job hunting is too high,Business incubation
+25,Male,Diploma,Nakuru,Employed,1,22,10,Resource_Constraints,I need financial support to relocate where jobs are available,Startup capital support
+19,Male,Secondary,Eldoret,Unemployed,11,21,0,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+33,Female,Bachelor,Nairobi,Unpaid work,4,24,15,Market_Mismatch,My field of study doesn't have many opportunities locally,Skill conversion training
+25,Male,Secondary,Nairobi,Student,12,18,8,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+25,Male,Bachelor,Nyeri,Self-employed,6,34,20,Skills_Gap,My current skills are outdated for the modern job market in Nyeri,Apprenticeship placement
+26,Female,Secondary,Nairobi,Employed,2,4,27,Market_Mismatch,My skills are not valued in the current job market,Skill conversion training
+32,Male,Primary,Mombasa,Student,6,48,31,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+18,Female,Diploma,Nakuru,Student,9,16,17,Geographic_Barrier,Jobs in my field are only available far from where I live,Satellite office placement
+27,Male,Masters,Machakos,Self-employed,8,49,23,Opportunity_Shortage,Companies aren't hiring in my field right now,Entrepreneurship support
+22,Male,Secondary,Nyeri,Student,9,0,26,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+28,Female,Primary,Eldoret,Unemployed,6,47,17,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+25,Male,Secondary,Eldoret,Self-employed,11,3,29,Geographic_Barrier,I can't relocate to where the jobs are available,Satellite office placement
+31,Female,Masters,Kakamega,Unemployed,11,22,22,Market_Mismatch,My field of study doesn't have many opportunities locally,Industry transition program
+19,Female,Secondary,Nakuru,Employed,0,19,0,Market_Mismatch,My Secondary qualification doesn't match what employers want,Alternative career path mentorship
+18,Female,Secondary,Nairobi,Unemployed,12,30,26,Geographic_Barrier,Living in Nairobi limits my access to job opportunities,Relocation support
+32,Female,Secondary,Nyeri,Self-employed,14,6,34,Skills_Gap,Companies want experience with technologies I haven't learned,Digital skills bootcamp
+22,Male,Secondary,Kisumu,Unemployed,0,15,10,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+30,Female,Secondary,Kisumu,Unemployed,6,0,33,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+24,Female,Bachelor,Nakuru,Unemployed,8,10,29,Opportunity_Shortage,Too many graduates are competing for too few positions,Public works program
+33,Female,Bachelor,Kisumu,Employed,5,46,2,Opportunity_Shortage,Companies aren't hiring in my field right now,Job creation initiative
+32,Female,Diploma,Kisumu,Unemployed,11,20,0,Opportunity_Shortage,The job market in Kisumu is saturated with job seekers,Gig economy onboarding
+25,Female,Secondary,Eldoret,Unemployed,0,29,26,Opportunity_Shortage,There are very few job openings in Eldoret,Entrepreneurship support
+30,Male,Diploma,Kisumu,Self-employed,7,25,26,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+23,Male,Secondary,Kakamega,Self-employed,13,28,1,Market_Mismatch,My Secondary qualification doesn't match what employers want,Industry transition program
+29,Male,Diploma,Kisumu,Unemployed,6,31,32,Skills_Gap,Companies want experience with technologies I haven't learned,Apprenticeship placement
+30,Female,Diploma,Nakuru,Unpaid work,2,34,18,Resource_Constraints,I lack resources to continue searching for jobs,Job search stipend
+28,Female,Bachelor,Eldoret,Unemployed,11,4,33,Opportunity_Shortage,Too many graduates are competing for too few positions,Gig economy onboarding
+24,Female,Bachelor,Kakamega,Unemployed,0,43,21,Skills_Gap,I lack the technical skills needed for jobs in my field,Apprenticeship placement
+24,Male,Primary,Mombasa,Unemployed,10,40,2,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+23,Male,Secondary,Machakos,Unemployed,10,35,33,Skills_Gap,My current skills are outdated for the modern job market in Machakos,Digital skills bootcamp
+23,Female,Secondary,Machakos,Unpaid work,6,49,8,Geographic_Barrier,Jobs in my field are only available far from where I live,Relocation support
+30,Male,Bachelor,Kisumu,Unpaid work,9,17,4,Opportunity_Shortage,The job market in Kisumu is saturated with job seekers,Entrepreneurship support
+34,Female,Bachelor,Nyeri,Employed,9,7,15,Geographic_Barrier,There's an urban-rural divide in job availability,Satellite office placement
+23,Female,Primary,Machakos,Self-employed,2,39,13,Resource_Constraints,The cost of living while job hunting is too high,Business incubation
+25,Male,Primary,Kakamega,Unemployed,7,34,19,Skills_Gap,I lack the technical skills needed for jobs in my field,Industry certifications
+34,Male,Secondary,Machakos,Employed,6,33,6,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Public works program
+24,Female,Secondary,Machakos,Unemployed,7,26,13,Opportunity_Shortage,The job market in Machakos is saturated with job seekers,Gig economy onboarding
+29,Male,Secondary,Nakuru,Employed,7,4,28,Skills_Gap,Companies want experience with technologies I haven't learned,Industry certifications
+24,Male,Secondary,Eldoret,Self-employed,0,19,10,Opportunity_Shortage,The job market in Eldoret is saturated with job seekers,Entrepreneurship support
+24,Female,Diploma,Mombasa,Self-employed,10,44,23,Market_Mismatch,My skills are not valued in the current job market,Skill conversion training
+35,Female,Secondary,Mombasa,Self-employed,0,47,17,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+35,Male,Primary,Mombasa,Unemployed,8,7,15,Skills_Gap,I lack the technical skills needed for jobs in my field,Digital skills bootcamp
+26,Male,Primary,Kakamega,Student,3,15,2,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Public works program
+30,Male,Secondary,Eldoret,Employed,6,46,26,Resource_Constraints,I lack resources to continue searching for jobs,Transport subsidy
+23,Male,Secondary,Nyeri,Employed,6,40,34,Skills_Gap,My current skills are outdated for the modern job market in Nyeri,Industry certifications
+34,Female,Diploma,Nakuru,Unpaid work,7,45,4,Resource_Constraints,Starting my own business requires capital I don't have,Job search stipend
+28,Female,Diploma,Machakos,Unemployed,11,31,10,Market_Mismatch,My field of study doesn't have many opportunities locally,Skill conversion training
+34,Female,Diploma,Mombasa,Student,9,46,12,Skills_Gap,I need additional training to qualify for available positions,Industry certifications
+35,Female,Bachelor,Eldoret,Self-employed,10,27,29,Market_Mismatch,My skills are not valued in the current job market,Industry transition program
+35,Male,PhD,Mombasa,Unemployed,9,45,5,Market_Mismatch,My PhD qualification doesn't match what employers want,Alternative career path mentorship
+23,Male,Primary,Mombasa,Unemployed,13,19,25,Opportunity_Shortage,There are very few job openings in Mombasa,Entrepreneurship support
+34,Male,Bachelor,Mombasa,Unemployed,2,34,19,Skills_Gap,My current skills are outdated for the modern job market in Mombasa,Apprenticeship placement
+30,Female,Masters,Machakos,Self-employed,0,43,27,Geographic_Barrier,Living in Machakos limits my access to job opportunities,Commuter subsidy
+29,Female,Diploma,Kakamega,Employed,7,8,18,Market_Mismatch,The industry I trained for is declining in Kenya,Skill conversion training
+18,Female,Diploma,Nairobi,Student,8,20,25,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+28,Female,Diploma,Nakuru,Unemployed,7,38,2,Opportunity_Shortage,The job market in Nakuru is saturated with job seekers,Job creation initiative
+25,Female,Diploma,Mombasa,Self-employed,0,6,17,Resource_Constraints,I can't afford the transportation costs for interviews,Business incubation
+25,Female,Secondary,Kakamega,Unemployed,10,38,6,Skills_Gap,My current skills are outdated for the modern job market in Kakamega,Apprenticeship placement
+19,Female,Secondary,Mombasa,Unemployed,11,15,31,Resource_Constraints,The cost of living while job hunting is too high,Transport subsidy
+22,Female,Secondary,Nyeri,Unemployed,3,18,21,Skills_Gap,I lack the technical skills needed for jobs in my field,Digital skills bootcamp
+23,Female,Diploma,Eldoret,Unemployed,3,45,3,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+23,Male,Secondary,Nyeri,Employed,6,2,12,Resource_Constraints,I can't afford the transportation costs for interviews,Startup capital support
+30,Female,Bachelor,Eldoret,Unemployed,1,18,13,Resource_Constraints,The cost of living while job hunting is too high,Transport subsidy
+31,Male,Secondary,Nairobi,Unemployed,3,42,34,Resource_Constraints,I can't afford the transportation costs for interviews,Startup capital support
+28,Female,Bachelor,Nyeri,Unemployed,10,37,15,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Entrepreneurship support
+33,Female,Diploma,Eldoret,Employed,10,45,12,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+32,Female,Diploma,Nyeri,Employed,11,41,24,Resource_Constraints,I lack resources to continue searching for jobs,Transport subsidy
+35,Female,Diploma,Mombasa,Unpaid work,3,12,8,Resource_Constraints,I need financial support to relocate where jobs are available,Business incubation
+28,Male,Secondary,Mombasa,Employed,3,38,21,Resource_Constraints,I lack resources to continue searching for jobs,Job search stipend
+29,Female,Bachelor,Mombasa,Student,7,42,25,Opportunity_Shortage,Companies aren't hiring in my field right now,Public works program
+25,Female,Diploma,Nyeri,Student,13,13,16,Resource_Constraints,The cost of living while job hunting is too high,Transport subsidy
+25,Female,Diploma,Mombasa,Self-employed,8,7,3,Market_Mismatch,My skills are not valued in the current job market,Skill conversion training
+26,Male,Secondary,Kisumu,Employed,13,24,10,Resource_Constraints,Starting my own business requires capital I don't have,Job search stipend
+30,Male,Secondary,Nyeri,Unemployed,14,9,13,Skills_Gap,I need additional training to qualify for available positions,Technical training program
+18,Male,Secondary,Eldoret,Self-employed,5,38,9,Market_Mismatch,There's a disconnect between my education and available jobs,Industry transition program
+24,Female,Secondary,Nakuru,Employed,14,20,5,Opportunity_Shortage,The economy isn't creating enough jobs for graduates,Public works program
+26,Male,Bachelor,Machakos,Employed,8,7,16,Resource_Constraints,The cost of living while job hunting is too high,Startup capital support
+35,Female,Secondary,Nyeri,Unemployed,10,39,9,Resource_Constraints,Starting my own business requires capital I don't have,Job search stipend
+30,Female,Masters,Eldoret,Employed,10,23,9,Skills_Gap,My current skills are outdated for the modern job market in Eldoret,Digital skills bootcamp
+35,Male,Secondary,Nairobi,Student,13,41,34,Opportunity_Shortage,The job market in Nairobi is saturated with job seekers,Job creation initiative
+18,Female,Secondary,Mombasa,Employed,1,0,2,Skills_Gap,My education didn't provide practical skills employers need,Technical training program
+21,Female,Secondary,Eldoret,Self-employed,4,9,19,Resource_Constraints,I can't afford the transportation costs for interviews,Business incubation
+30,Female,Secondary,Mombasa,Self-employed,13,15,30,Opportunity_Shortage,Too many graduates are competing for too few positions,Entrepreneurship support
+18,Male,Primary,Machakos,Unemployed,4,47,15,Skills_Gap,I need additional training to qualify for available positions,Apprenticeship placement
+33,Male,PhD,Kisumu,Self-employed,9,48,1,Skills_Gap,Companies want experience with technologies I haven't learned,Technical training program
+26,Male,Diploma,Kakamega,Self-employed,1,21,33,Skills_Gap,My current skills are outdated for the modern job market in Kakamega,Digital skills bootcamp
+27,Female,Secondary,Nakuru,Employed,5,24,9,Market_Mismatch,My field of study doesn't have many opportunities locally,Career redirection counseling
+30,Male,Primary,Mombasa,Employed,1,44,27,Market_Mismatch,My Primary qualification doesn't match what employers want,Industry transition program
